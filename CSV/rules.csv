@@ -1,0 +1,1101 @@
+"ID","direction","source","category","barrier","positiveTokens","positiveRegex","negativeTokens","negativeRegex"
+"mar001","pten","Os dados foram guardados na caixa com o jogo de tabuleiro.","ambiguity","lexical ambiguity",,"dice",,"data"
+"mar002","pten","Ficamos sem rede ontem pela tarde.","ambiguity","lexical ambiguity",,"network|coverage|internet|signal|reception",,"(net )|power"
+"mar003","pten","Dei uma torcida no pé.","ambiguity","lexical ambiguity",,"twist|sprain",,"crowd|cheer|support"
+"mar004","pten","Nenhum de nós tinha votado nesse candidato nem admitiamos que alguém tivesse.","ambiguity","lexical ambiguity",,"accept|allow",,"admit"
+"mar005","pten","Quem casa quer casa bem longe de casa.","ambiguity","lexical ambiguity","People who get married want to stay away from home.","marries.*(house|home).*home","Who home or home far from home.|Those who want a home away from home.|Who is home, or home away from home.|Whoever marshes a house far from home.|The house wants home well away from home.|Those who want a home well away from home.","wants to marry|Home wants"
+"mar006","pten","Ele é burro.","ambiguity","lexical ambiguity",,"dumb|stupid",,"donkey|ass"
+"mar007","pten","A Maria fez aquele jantar na sua casa?","ambiguity","structural ambiguity",,"your",,"her"
+"mar008","pten","As crianças felizes correram para a piscina.","ambiguity","structural ambiguity",,"Happy|happy",,"Happily|happily"
+"mar009","pten","Felizes, as crianças correram para a piscina.","ambiguity","structural ambiguity",,"Happily|happily",,"Happy|happy|Felizes"
+"mar010","pten","A atendente mal-humorada dobrou as camisas.","ambiguity","structural ambiguity",,"grumpy|moody|cranky","The attendant short-tempered folded, the shirts.|The ill-humored distress has doubled the shirts.","grumpily|feisty"
+"mar011","pten","A atendente dobrou a camisa mal-humorada.","ambiguity","structural ambiguity",,"grumpily|(surly|moody|grumpy) mood","The lady folded the shirt and ill-tempered.|The shirt has doubled the ill-humored shirt.","(grumpy|moody|feisty|sulky) shirt"
+"mar012","pten","Vive-se bem neste país.","verb valency","mediopassive voice","This is a good country.","One lives well","We live in this country.|They live well in that country.","You|you|He|We"
+"mar013","pten","Come-se bem nesta casa.","verb valency","mediopassive voice",,"One eats well","We eat well in this house.|It fits in well with this House.","You|you|Come|come"
+"mar014","pten","Vende-se esta casa.","verb valency","mediopassive voice",,"For sale|for sale",,"You|you|sell|Sell|sold"
+"mar015","pten","Aluga-se carro.","verb valency","mediopassive voice","Rent a car.|Car rental.","for rent|For rent","Rent car.|We rent a car.|You rent a car.|You drive a car.","You|He|We|They"
+"mar016","pten","Fala-se das aventuras do rei.","verb valency","mediopassive voice","There is talk of the adventures of the king.|People talk about the King's adventures.","are spoken of|One speaks of|are mentioned|There is talk of","It talks about the adventures of a king.","You|you|We"
+"mar017","pten","Os filhotes foram descobertos pelo jardineiro.","verb valency","passive voice",,"were discovered|found|uncovered",,
+"mar018","pten","O bolo foi comprado pelos funcionários.","verb valency","passive voice",,"was bought|purchased",,"has been"
+"mar019","pten","A casa da mãe foi reformada pelo filho.","verb valency","passive voice",,"was renovated|refurbished",,"reform|has been"
+"mar020","pten","O banco foi roubado.","verb valency","passive voice","The bank has been robbed.","was robbed",,"stolen"
+"mar021","pten","Os remédios foram manipulados.","verb valency","passive voice",,"(have been|were) (manipulated|tampered with)",,"handle|rigged"
+"mar022","pten","Beijaram-se sob o céu estrelado.","verb tense/aspect/mood","reflexive",,"kissed (each other)?",,
+"mar023","pten","Nos veremos amanhã!","verb tense/aspect/mood","reflexive","I'll see you tomorrow!|I’ll see you tomorrow!","See you|We'll see each other","We shall see tomorrow.","We'll see"
+"mar024","pten","Bruno machucou-se ao cair.","verb tense/aspect/mood","reflexive",,"(hurt|injured) himself","Bruno, you have hurt yourself when you fall.|Bruno machu touched on the fall.","hurt themselves|(got|was) (hurt|injured)"
+"mar025","pten","Cortei-me com a faca enquanto cozinhava.","verb tense/aspect/mood","reflexive",,"cut myself","I've got rid of the knife as cooking.",
+"mar026","pten","Nós pintamo-nos de índios.","verb tense/aspect/mood","reflexive",,"paint ourselves",,
+"mar027","pten","Diga ao seu pai que eu o admiro.","verb tense/aspect/mood","ditransitive","Tell your father that I admire him.|Tell your dad that I admire him.|Tell your father I admire him.|Tell your dad I admire him.",,"Tell your father that I admire.",
+"mar028","pten","Emprestei uma caneta ao meu irmão.","verb tense/aspect/mood","ditransitive",,"lent|lended",,"borrowed|bought"
+"mar029","pten","Vou ensinar matemática às meninas.","verb tense/aspect/mood","ditransitive",,"(Math|math.*to the girls)|the girls (Math|math)","I'm going to be teaching math at the girls.","to girls|I'll teach girls math"
+"mar030","pten","O pai deu um conselho ao filho.","verb tense/aspect/mood","ditransitive",,"advice to his son|his son.*advice","The father took a piece of advice.",
+"mar031","pten","A criança deve devolver o dinheiro à mãe.","verb tense/aspect/mood","ditransitive",,"money to the|its|his|her mother|mom|mum",,
+"mar032","pten","Há inúmeras razões para eu estar chateada com você.","verb tense/aspect/mood","impersonal",,"There are",,
+"mar033","pten","Havia muitas pessoas esperando na fila.","verb tense/aspect/mood","impersonal",,"There were",,
+"mar034","pten","Faz cinco anos que não vejo minha irmã.","verb tense/aspect/mood","impersonal","I haven't seen my sister in five years.|I haven’t seen my sister in five years.","It's|(It has) been ","Five years ago I have not seen my sister.|Five years ago I don't see my sister.",
+"mar035","pten","Anoitece sempre à mesma hora.","verb tense/aspect/mood","impersonal","The night always comes at the same time.","(It.*(gets dark)|darkens)|(Night falls)","Early at the same time.|Dark at the same time.|It is always at the same time.",
+"mar036","pten","Já passa das sete horas.","verb tense/aspect/mood","impersonal",,"It('s| is) (already )?(after|past)|It’s after ","It is already seven hours.",
+"mar037","pten","Eu só faço o que quero.","verb tense/aspect/mood","irregular",,"do",,
+"mar038","pten","Se você rir, eles não hão de rir.","verb tense/aspect/mood","irregular",,"(won’t|won't|shan't|shall not|will not) laugh","If you laugh at them, they're not gonna laugh.","are"
+"mar039","pten","Eu hei de confrontar todo o mau.","verb tense/aspect/mood","irregular","I have to confront all of the bad.","shall|(am to)|('ll|will|’ll)","I hesitated to confront the whole bad.",
+"mar040","pten","Eu enxuguei o meu cabelo.","verb tense/aspect/mood","irregular",,"dried","I played my hair.","wiped"
+"mar041","pten","Eu não caibo dentro desse espaço mínimo!","verb tense/aspect/mood","irregular",,"fit","I don't fall within that minimum area.",
+"mar042","pten","Aos dez anos ele já tinha ganhado três campeonatos de judô.","verb tense/aspect/mood","abundant",,"had (already )?won",,"is won"
+"mar043","pten","O campeonato de judô já está ganho.","verb tense/aspect/mood","abundant",,"is (already )?won",,"has been won"
+"mar044","pten","Ele já tinha imprimido vinte mil cópias antes de fechar a gráfica.","verb tense/aspect/mood","abundant",,"had (already )?printed","He had already had 20 thousand copies before closing the print.",
+"mar045","pten","Vinte mil cópias do documento foram impressas. ","verb tense/aspect/mood","abundant",,"were printed|have been",,
+"mar046","pten","A treinadora ainda não tinha elegido a capitã do time.","verb tense/aspect/mood","abundant",,"had(n't|n’t| not) (yet )?elected|chosen|picked","The coach had not yet formed the captain of the team.",
+"mar047","pten","Minha avó vai no supermercado agora.","verb tense/aspect/mood","indicativo presente",,"goes|('s|is) going to.*now","My grandmother is going on now supermarket.",
+"mar048","pten","Todos os dias eu como banana com aveia no café da manhã.","verb tense/aspect/mood","indicativo presente",,"eat","Every day, I like the banana with oatmeal in the morning.|Every day I declare myself to be a banana with a head in the breakfast of the morning.",
+"mar049","pten","Eu preciso de sua ajuda neste exato momento!","verb tense/aspect/mood","indicativo presente",,"need",,
+"mar050","pten","Nós gostamos de chocolate.","verb tense/aspect/mood","indicativo presente",,"like","We love hot chocolate.",
+"mar051","pten","As crianças riem sem parar.","verb tense/aspect/mood","indicativo presente",,"(Children|children|kids|Kids) laugh",,"will laugh"
+"mar052","pten","O ladrão fugia no momento em que os policiais chegaram ao local.","verb tense/aspect/mood","indicativo pretérito imperfeito","The thief was on the run the moment the cops arrived at the scene.","was running away|was fleeing",,"ran|flee |fled"
+"mar053","pten","Minha irmã jantava quando o telefone tocou.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"was (dining|eating|having dinner)","My sister jantain when the phone touched.","dines|(eats|has) dinner|used to eat|is dining|sister's dining"
+"mar054","pten","Ele estudava francês e alemão, mas agora só estuda alemão.","verb tense/aspect/mood","indicativo pretérito imperfeito","He had been studying French, and German, but now I study German.","used to study",,"studied|was studying"
+"mar055","pten","Ela cantava quando criança.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to sing","She was a child.","sang"
+"mar056","pten","Ele corria 20 quilômetros todos os dias quando era mais novo.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to run",,"ran|runs"
+"mar057","pten","Eu comprei esta blusa na semana passada.","verb tense/aspect/mood","indicativo pretérito perfeito",,"bought",,"buy"
+"mar058","pten","Eles esperaram por você durante duas horas.","verb tense/aspect/mood","indicativo pretérito perfeito",,"waited",,"(wait )"
+"mar059","pten","Você pediu um cachorro quente.","verb tense/aspect/mood","indicativo pretérito perfeito",,"asked for|ordered",,"(ask )"
+"mar060","pten","A criança sorriu.","verb tense/aspect/mood","indicativo pretérito perfeito",,"smiled",,"(smile )"
+"mar061","pten","Eles acusaram o homém de roubo.","verb tense/aspect/mood","indicativo pretérito perfeito",,"accused","Do they have suffered as a result homém of identity theft.","(accuse )"
+"mar062","pten","Eu tenho corrido no calçadão todos os dias de manhã.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"(’ve|'ve|have) been running|have run","I've only ridden on the boardwalk every day in the morning.","I run |ran "
+"mar063","pten","Meu marido tem trabalhado muito ultimamente.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"(’s|'s|has) been working|has worked",,"works|husband worked|is working"
+"mar064","pten","Nós temos comido muita proteína.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"(’ve|'ve| have) been eating|('ve| have) eaten",,"(eat )|(ate )"
+"mar065","pten","Você tem estado de bom humor recentemente.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"You(’ve|'ve| have) been",,"are"
+"mar066","pten","Ele tem sonhado muito à noite.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"He(’s|'s| has) (been dreaming|dreamt|dreamed)","He must dare to dream a lot at night.","dreams"
+"mar067","pten","Quando notei, a água já transbordara da banheira.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had .*overflowed",,"overflows|overflown|overflowing|transbordara"
+"mar068","pten","Com o olhar triste, explicou a todos por que regressara a casa.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had returned|had come","With sad look, he explained to everyone why come home.","returns|came back"
+"mar069","pten","Apenas de noite admitiu que esperara por ele ansiosamente durante todo o dia.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had waited|had been waiting","Just the night, admitted he had hoped for he is eagerly anticipating for the whole day.","(waits? )|he waited"
+"mar070","pten","Quem me dera que isso acontecesse!","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"wish",,"Who|give|gave"
+"mar071","pten","Tomara que eu seja o escolhido!","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"I hope|Let's hope","Please note that I am the chosen person.","had taken|drunk"
+"mar072","pten","Quando ele chegou, a confusão já tinha passado.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"(had (already )?passed)|(was over)",,
+"mar073","pten","Nós já tínhamos terminado o trabalho quando o diretor perguntou.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto","We had done the work, and when the director asked her.","had (already )?finished",,
+"mar074","pten","Eu já tinha dito isso antes.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto","I had already told it before.","I('d| had) (already )?said",,"’ve|'ve|have"
+"mar075","pten","Eu já tinha percebido que ele não era confiável.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto","I figured he couldn’t be trusted.","had (already )?(noticed|realized|realised)",,"have"
+"mar076","pten","Quando soube da tempestade, eu tinha comprado as minhas passagens.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had bought",,"I bought"
+"mar077","pten","Caminharemos 40 quilômetros no percurso de amanhã.","verb tense/aspect/mood","indicativo futuro do presente",,"(’ll|'ll|will) walk","We are 40 miles away in the course of the future.|We will lose 40 kilometers on tomorrow's road.",
+"mar078","pten","Eles chegarão em Salvador daqui a dois dias.","verb tense/aspect/mood","indicativo futuro do presente",,"('ll|will) (arrive in|get to|be in)","They're going to get on the Savior, here's a couple of days.",
+"mar079","pten","Eu irei ao médico após o fim do expediente.","verb tense/aspect/mood","indicativo futuro do presente",,"(’ll|'ll|will|shall) go to","I'm going to the doctor, and after the end of the day.",
+"mar080","pten","Só descobrirei a verdade amanhã.","verb tense/aspect/mood","indicativo futuro do presente","- Only I will have the truth of tomorrow.","I('ll| will) (only )?(discover|uncover|find out)|won('|’)t (find out|discover).*until","Only uncover the truth tomorrow.",
+"mar081","pten","Rezarei pela viagem de vocês.","verb tense/aspect/mood","indicativo futuro do presente",,"I(’ll|'ll| will) pray",,"prayed|Rezarei"
+"mar082","pten","Quando você chegar, ele já terá terminado o trabalho.","verb tense/aspect/mood","indicativo futuro do presente composto","When you do arrive, he will have the job done.","(’ll|'ll|will) have (already )?finished|he'll be done",,
+"mar083","pten","Daqui a dois dias eu já terei lido o livro todo.","verb tense/aspect/mood","indicativo futuro do presente composto",,"(’ll|'ll| will) have (already )?read","In a couple of days, I'll have to read the whole book.","I have read"
+"mar084","pten","Com certeza, eles ainda não terão concluído o projeto amanhã.","verb tense/aspect/mood","indicativo futuro do presente composto",,"(won’t|won't|will.*not) have (finished|completed)",,"have not"
+"mar085","pten","Se você desistir, os seus inimigos terão vencido.","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have won","If you give up, your enemy will be vanquished.","enemies have won"
+"mar086","pten","Depois desta tarefa, nós teremos concluído o projeto.","verb tense/aspect/mood","indicativo futuro do presente composto","After this assignment, we will be finished with the project.","will have finished|completed",,
+"mar087","pten","No início do dia, ninguém podia imaginar que haveria um incêndio.","verb tense/aspect/mood","indicativo futuro do pretérito",,"would be","At the beginning of the day, no one could have imagined that it would start a fire.","would have been"
+"mar088","pten","Eu tocaria guitarra num conjunto se tivesse essa oportunidade.","verb tense/aspect/mood","indicativo futuro do pretérito",,"(’d|'d|would) play","I have played the guitar in a collection, if I had the chance.","would have played|playing"
+"mar089","pten","Nós gostaríamos muito de estar presentes no evento.","verb tense/aspect/mood","indicativo futuro do pretérito",,"would (very much )?like to|would love to",,"would have liked"
+"mar090","pten","Nós cantaríamos na festa de despedida.","verb tense/aspect/mood","indicativo futuro do pretérito",,"(’d|'d|would) sing","We cantaríamos at the bachelorette party.","would have sung"
+"mar091","pten","Eu ouviria aquela música todos os dias.","verb tense/aspect/mood","indicativo futuro do pretérito",,"('d|would) (hear|listen to)",,"would have heard|I hear "
+"mar092","pten","Eles teriam perdido a esperança se não fosse pelo discurso do padre.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would have (lost|given up)",,"would lose|They have lost"
+"mar093","pten","Eu teria ficado mais feliz se você tivesse vindo.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would have been",,"would be"
+"mar094","pten","Se você tivesse me ouvido, isso não teria acontecido.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would(n't|n’t| not) have happened",,"would(n't| not) happen"
+"mar095","pten","Será que ela teria ficado aqui?","verb tense/aspect/mood","indicativo futuro do pretérito composto","Would she have been here?""","(Would|would).*have stayed",,"would stay|got"
+"mar096","pten","Ela teria se apaixonado por ele se ele fosse mais carinhoso.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would have fallen","She would have been passionate about it if he was more affectionate.","would fall|had fallen"
+"mar097","pten","Façam silêncio, por favor!","verb tense/aspect/mood","afirmative imperative",,"Be|Please (be|remain)|Keep it down","Do it quietly, please.","Make"
+"mar098","pten","Saia daqui imediatamente!","verb tense/aspect/mood","afirmative imperative",,"Leave|Get out","Come here immediately.",
+"mar099","pten","Pede o teu cartão de visitante ao porteiro.","verb tense/aspect/mood","afirmative imperative",,"Request|Ask.*for|Order","Ask your visitor's card to the concierge.|He is asking for your visitor card to the postman.",
+"mar100","pten","Diga o que você quer de mim!","verb tense/aspect/mood","afirmative imperative",,"Say|Tell me",,
+"mar1000","pten","Invadiu-se a escola para resgatar os reféns.","verb valency","mediopassive voice",,"school was (raided|invaded)",,
+"mar1001","pten","Desviaram-se quantias elevadas.","verb valency","mediopassive voice",,"money (have been|were|was) misappropriated|Large amounts have been diverted",,
+"mar1002","pten","Entregou-se o pacote ao destinatário.","verb valency","mediopassive voice",,"package (has been|was) delivered",,
+"mar1003","pten","Destruíram-se os barracos.","verb valency","mediopassive voice",,"(have been|were) destroyed",,
+"mar1004","pten","O pássaro atacou o homem, porque ele o espantou.","non-verbal agreement","coreference",,"he scared it",,"him"
+"mar1005","pten","A menina carregou a mala, embora ela fosse muito pesada.","non-verbal agreement","coreference",,"it was.*heavy",,"she was.*heavy"
+"mar1006","pten","A menina carregou a grande mala, embora ela fosse muito pequena.","non-verbal agreement","coreference",,"she was.*small",,"it was.*small"
+"mar1007","pten","A mãe estava cozinhando quando queimou a sua mão. ","non-verbal agreement","coreference",,"she burned her",,
+"mar1008","pten","João estava caminhando quando avistou uma raposa e sua família. ","non-verbal agreement","coreference",,"its family",,"his family"
+"mar1009","pten","Dez anos atrás, Paulo comprou um carro e desde então cuida muito bem dele.","non-verbal agreement","coreference",,"care of it",,"care of him"
+"mar101","pten","Vá embora antes que eu chame a polícia!","verb tense/aspect/mood","afirmative imperative","Go on before I call the police.","Leave|Go away|Get out of here",,
+"mar1010","pten","O pássaro está perdido e não consegue encontrar o seu ninho.","non-verbal agreement","coreference",,"its nest",,"his nest"
+"mar1011","pten","O homem bêbado não consegue encontrar a sua chave de casa.","non-verbal agreement","coreference",,"his.*key",,"its.*key"
+"mar1012","pten","O homem comprou um carro para ele poder viajar com mais frequência.","non-verbal agreement","coreference",,"he",,"it"
+"mar1013","pten","O homem comprou um carro caro, mas ele não era bom.","non-verbal agreement","coreference",,"it",,"he"
+"mar1014","pten","A empregada fez a cama.","mwe","verbal mwe",,"made.*bed",,
+"mar1015","pten","Você já colocou a mesa para o almoço?","mwe","verbal mwe",,"set.*table|laid.*table",,
+"mar1016","pten","Ela fez uma boa prova.","mwe","verbal mwe",,"wrote.*exam","She has done a good job.","did"
+"mar1017","pten","Ela partiu o pão em pedacinhos.","mwe","verbal mwe",,"broke.*bread",,"part"
+"mar1018","pten","Vamos fazer uma festa!","mwe","verbal mwe",,"throw|have",,"do|make"
+"mar1019","pten","A cozinheira fez um delicioso bolo de banana.","mwe","verbal mwe",,"baked|made",,
+"mar102","pten","Não venha agora, por favor.","verb tense/aspect/mood","negative imperative","Please do not come now.","Do(n't|n’t| not) come","Don't let it come now, please.""",
+"mar1020","pten","Ela está fazendo uma dieta para perder 10 quilos.","mwe","verbal mwe",,"(going )?on a diet",,
+"mar1021","pten","Você deveria prestar mais atenção durante a aula.","mwe","verbal mwe",,"pay.*attention",,
+"mar1022","pten","Maria fez um longo discurso.","mwe","verbal mwe",,"(held|gave|made) a (long )?speech",,
+"mar1023","pten","Ratos me dão medo.","mwe","verbal mwe",,"frighten|scare",,
+"mar1024","pten","Eu faço parte da equipe de futebol.","mwe","verbal mwe",,"am part",,
+"mar1025","pten","O seu novo vestido está chamando atenção.","mwe","verbal mwe",,"(drawing|attracting|getting).*attention",,
+"mar1026","pten","O paciente foi submetido a um tratamento especial para curar a sua doença.","mwe","verbal mwe",,"(underwent|has undergone|was subjected).*treatment",,"submit"
+"mar1027","pten","A ausência da família traz uma forte angústia.","mwe","verbal mwe",,"causes.*anguish",,"bring"
+"mar1028","pten","Os dois jogadores fazem falta ao time.","mwe","verbal mwe",,"are missed",,"are missing"
+"mar1029","pten","Renata está realizando um sonho.","mwe","verbal mwe",,"fulfilling.*dream|making.*dream.*come true",,
+"mar103","pten","Não coma tão depressa!","verb tense/aspect/mood","negative imperative",,"Do(n't|n’t| not) eat",,
+"mar1030","pten","Levei um susto quando você gritou o meu nome.","mwe","verbal mwe",,"had.*fright|was startled",,
+"mar1031","pten","Você está perdendo tempo assistindo novela.","mwe","verbal mwe",,"wasting.*time",,
+"mar1032","pten","Vamos registrar o evento com uma foto.","mwe","verbal mwe",,"(record|mark).*event",,"register"
+"mar1033","pten","Vamos tomar o café da manhã?","mwe","verbal mwe",,"(have|eat) breakfast",,
+"mar1034","pten","Ao dirigir à noite, tenha cuidado redobrado.","mwe","collocation",,"doubly careful|extra careful",,
+"mar1035","pten","Com esse dinheiro suado vou finalmente comprar uma casa. ","mwe","collocation",,"hard-earned money",,"sweaty"
+"mar1036","pten","O sol escaldante queimou a minha pele.","mwe","collocation",,"(white-hot|burning|flaming|scorching) sun",,"scalding"
+"mar1037","pten","Meu professor de alemão tinha o sotaque carregado.","mwe","collocation",,"heavy accent",,"charged"
+"mar1038","pten","Você está redondamente enganado a respeito dele.","mwe","collocation",,"(resoundingly|soundly|dead) wrong",,"round|sad"
+"mar1039","pten","Os peixes nadam contra a corrente.","agreement","number",,"fish",,"fishes"
+"mar104","pten","Não esperem por mim.","verb tense/aspect/mood","negative imperative",,"Do(n't|n’t| not) wait",,
+"mar1040","pten","Os queijos fedem.","agreement","number",,"cheese sink",,"cheeses|Cheeses"
+"mar1041","pten","Pessoas bondosas são bem quistas.","agreement","number",,"people",,"peoples"
+"mar1042","pten","Quantas ovelhas você tem?","agreement","number",,"sheep",,"sheeps"
+"mar1043","pten","Meus lápis quebraram todos.","agreement","number",,"pencils",,"pencil broke"
+"mar1044","pten","Cavalo dado não se olha os dentes.","mwe","idiom",,"look a gift horse in the mouth",,"Given"
+"mar1045","pten","O Thomás pegou o touro pelos chifres e terminou a tarefa.","mwe","idiom",,"(grabbed|took) the bull by the horns|met.*head on",,
+"mar1046","pten","Cada macaco no seu galho.","mwe","idiom",,"mind.*own business|own corner",,"monkey|branch"
+"mar1047","pten","Ele é um lobo em pele de ovelha.","mwe","idiom",,"wolf in sheep's clothing",,
+"mar1048","pten","Melhor um pássaro na mão do que dois voando.","mwe","idiom",,"A bird in (the )?hand is worth two in the bush|Better a bird in.*hand than two in the bush",,
+"mar1049","pten","Não devemos matar a galinha dos ovos de ouro que é o turismo.","mwe","idiom",,"kill the goose that lays (the )?golden eggs?",,
+"mar105","pten","Não estude mais que o necessário.","verb tense/aspect/mood","negative imperative",,"Do(n't|n’t| not) study|Study no more","I do not study any more than is necessary.",
+"mar1050","pten","Deus ajuda quem cedo madruga.","mwe","idiom",,"early bird catches the worm",,
+"mar1051","pten","Com essa nova tática vamos matar dois coelhos com uma só cajadada.","mwe","idiom",,"two bird.*one stone",,
+"mar1052","pten","Você é um estraga prazer.","mwe","idiom",,"wet blanket|spoilsport",,"pleasure spoil"
+"mar1053","pten","Eu canto uma vez na vida e outra na morte.","mwe","idiom",,"once in a blue moon",,"life|death"
+"mar1054","pten","Não tente abraçar o mundo com as pernas.","mwe","idiom",,"bite off more than you can chew",,"embrace|hug"
+"mar1055","pten","Ele vai tirar a prova de letra.","mwe","idiom",,"ace",,"take.*storm|letter"
+"mar1056","pten","Pare de andar nas nuvens e preste atenção!","mwe","idiom",,"head.*clouds|day dreaming",,"walking"
+"mar1057","pten","Ele fala pelos cotovelos.","mwe","idiom",,"talks nonstop|talk the hind leg off a donkey",,"elbows"
+"mar1058","pten","Ele abotoou o paletó.","mwe","idiom",,"died|kicked the bucket",,"button"
+"mar1059","pten","A mulher que pagou pelo meu táxi, me quebrou um galho.","mwe","idiom",,"helped me out|gave.*break",,"twig|branch"
+"mar106","pten","Não desistam dos seus sonhos, meninos!","verb tense/aspect/mood","negative imperative",,"Do(n't|n’t| not) give up",,
+"mar1060","pten","Você acertou na mosca.","mwe","idiom",,"hit the nail on the head|bull's-eye",,
+"mar1061","pten","Depois do lockdown vamos soltar a franga.","mwe","idiom",,"let loose",,"chicken|release"
+"mar1062","pten","Ele foi salvo pelo gongo.","mwe","idiom",,"saved by the bell",,"gong"
+"mar1063","pten","Ela é uma verdadeira maria-vai-com-as-outras, pois não tem atitude própria.","mwe","idiom",,"sheep",,"free-for-all|maria"
+"mar1064","pten","Gosto de viajar.","coordination & ellipsis","null subject",,"I like",,
+"mar1065","pten","Estás preparado para os exames?","coordination & ellipsis","null subject",,"Are you",,
+"mar1066","pten","Tenhas fé no futuro, meu filho.","coordination & ellipsis","null subject",,"Have",,
+"mar1067","pten","Podeis vir, a comida já está na mesa.","coordination & ellipsis","null subject",,"You can",,
+"mar1068","pten","Quando compreendereis que tudo o que fiz foi por amor?","coordination & ellipsis","null subject",,"you understand",,
+"mar1069","pten","Parecia que era sincera, mas você mentiu para mim.","coordination & ellipsis","null subject",,"You seemed",,"It|He"
+"mar107","pten","Despedir-me-ei dos meus amigos.","pronouns","mesóclise","Goodbye I will of my friends.","I('ll|’ll| will| shall) say goodbye","Say goodbye to me, and I will, of my family and friends.|I will despair of my friends.",
+"mar1070","pten","Parecia que era sincera, mas ela mentiu para mim.","coordination & ellipsis","null subject",,"She seemed",,"It|He|You"
+"mar1071","pten","Trabalha duro em casa, mas no escritório ela perde tempo com fofocas.","coordination & ellipsis","null subject",,"She works",,
+"mar1072","pten","Trabalha duro todos os dias, por isso você merece tirar férias do escritório.","coordination & ellipsis","null subject",,"You work",,
+"mar1073","pten","Rapaz, estuda!","coordination & ellipsis","null subject",,"study",,
+"mar1074","pten","Rapaz, estude! ","coordination & ellipsis","null subject",,"study",,
+"mar1075","pten","Rapazes, estudemos!","coordination & ellipsis","null subject",,"(let us|let's) study",,
+"mar1076","pten","Rapazes, estudai!","coordination & ellipsis","null subject",,"study",,
+"mar1077","pten","Rapazes, estudem!","coordination & ellipsis","null subject",,"study",,
+"mar1078","pten","Meninas, basta de fofocas.","coordination & ellipsis","null subject",,"enough",,
+"mar1079","pten","Deixaram um buquê de flores para você na recepção.","coordination & ellipsis","null subject",,"They left",,
+"mar108","pten","Permitir-lhes-ei mais uma taça de vinho.","pronouns","mesóclise",,"I('ll|’ll| will) (permit|allow) them|you","Allow unto them another glass of wine.|Let them over a glass of wine.",
+"mar1080","pten","Fizeram uma algazarra esta noite na minha rua.","coordination & ellipsis","null subject",,"They made|There was.*commotion",,
+"mar1081","pten","Rapazes, chega de conversa.","coordination & ellipsis","null subject",,"enough",,
+"mar1082","pten","Adoro comprar roupas novas.","coordination & ellipsis","null subject",,"I (love|like|adore)",,
+"mar1083","pten","Mentiu para mim, pois a história que você contou não faz sentido.","coordination & ellipsis","null subject",,"You lied",,
+"mar1084","pten","O professor ensinava literatura inglesa.","agreement","gender",,"English literature",,
+"mar1085","pten","A cantora sertaneja anunciará o seu show nessa sexta-feira.","agreement","gender",,"country singer",,
+"mar1086","pten","O gato do vizinho gosta da filha do meu irmão.","agreement","gender",,"The.*cat.*brother's daughter",,
+"mar1087","pten","O rato raivoso roeu a rica roupa  do arruinado rei de Roma.","agreement","gender",,"(angry|rabid) rat.*rich (clothing|clothes).*ruined king|(angry|rabid) rat.*ruined king.*rich (clothing|clothes)",,
+"mar1088","pten","A  professora perguntou se os pés do Pedro estavam sujos.","agreement","gender",,"teacher.*feet.*dirty",,
+"mar1089","pten","As roupas coloridas secavam no sol.","agreement","gender",,"colorful clothes",,
+"mar109","pten","Queixar-se-iam menos se trabalhassem mais.","pronouns","mesóclise",,"They('d|’d| would) complain","Complaining would less if they worked more.|To complain would be less work more.",
+"mar1090","pten","Paula tem um prato preto na pia.","agreement","gender",,"black plate.*sink",,
+"mar1091","pten","Esta é a casa dos irmão italianos.","agreement","gender",,"Italian brothers",,
+"mar1092","pten","Casa suja, chão sujo.","agreement","gender",,"Dirty.*dirty",,
+"mar1093","pten","Você comprou várias casas espaçosas.","agreement","gender",,"spacious houses",,
+"mar1094","pten","Ele vem às aulas de Português.","agreement","number",,"comes",,
+"mar1095","pten","Eles vêm às aulas de Português.","agreement","number",,"come",,
+"mar1096","pten","João tem uma bicicleta nova, mas os seus vizinhos não têm.","agreement","number",,"has.*(do not|don't)",,"has.*has"
+"mar1097","pten","O tomate e a batata provêm da América do Sul, porém o tamarindo provém da África.","agreement","number",,"come from.*comes from",,
+"mar1098","pten","Quem mantém essa creche?","agreement","number",,"maintains",,"maintain this"
+"mar1099","pten","Os funcionários da prefeitura mantêm a creche.","agreement","number",,"maintain",,"maintains"
+"mar110","pten","Ajudar-me-ão no que for necessário.","pronouns","mesóclise",,"They('ll| will) help me|You will help me","Help me will you if necessary.|It will help me be what you need.",
+"mar1100","pten","Jóvens geralmente têm pouca paciência.","agreement","number",,"have",,"has"
+"mar111","pten","Arrepender-nos-emos de não termos nadado com tubarões.","pronouns","mesóclise",,"We('ll|’ll| will) regret","Sorry, we don't have swum with the sharks.|We will be surprised that we have nothing to do with sharks.",
+"mar112","pten","Ele está me ajudando muito.","pronouns","próclise",,"helping me",,
+"mar113","pten","O dinheiro não vos corromperá.","pronouns","próclise",,"(will not|won't) corrupt you","The money you do not corrupt.|The money you will corrupt.",
+"mar114","pten","Quem pode nos ajudar a recolher o lixo?","pronouns","próclise",,"help us",,
+"mar115","pten","Hoje o vi regando as flores.","pronouns","próclise",,"I saw him","Today saw him watering the flowers.|Today I saw them blossoming.",
+"mar116","pten","O aluno que o desrespeitou foi para a diretoria.","pronouns","próclise",,"disrespected you|him","The student is that he failed to respect was across the board.",
+"mar117","pten","Refiro-me ao carregador de celular.","pronouns","ênclise","I mean the cell phone charger.|I refer to the mobile phone charger.","I('m| am) (referring to|talking about)","I mean, to charge the mobile phone.",
+"mar118","pten","Quero dar-lhe uma boa notícia.","pronouns","ênclise",,"give you",,
+"mar119","pten","Vim convidá-los para o meu casamento.","pronouns","ênclise",,"invite (you|them)",,
+"mar120","pten","O marido deu-lhe um beijo.","pronouns","ênclise","Her husband kissed her.","gave (her|him)|has given (her|him)",,
+"mar121","pten","Telefonei-lhe na hora combinada.","pronouns","ênclise",,"I called (you|him|her)",,
+"mar122","pten","Alguns maus alunos eventualmente se tornam bons profissionais.","false friends","false friends","Some bad students may become good professionals.","occasionally",,"eventually"
+"mar123","pten","Tenho uma alma sensível.","false friends","false friends",,"sensitive",,"sensible"
+"mar124","pten","A atual situação é complicada.","false friends","false friends",,"current",,"actual"
+"mar125","pten","Atenciosamente, William.","false friends","false friends","Regard, William.","(s|S)incerely|Best Regards",,"Attention"
+"mar126","pten","Admiro o meu chefe.","false friends","false friends",,"boss","I admire my head.","chef"
+"mar127","pten","Não pude fazer nada.","negation","double negative",,"could(n't| not) do anything|was(n't| not) able to do anything|could do nothing|nothing I could do",,
+"mar128","pten","Não vi ninguém.","negation","double negative",,"did(n't|n’t| not) see anyone|have not seen anyone",,"no one"
+"mar129","pten","Não fui a nenhum lugar.","negation","double negative","I haven't been to any place.","did(n't|n’t| not) go anywhere|have not been anywhere",,"nowhere"
+"mar130","pten","Não quero nunca me divorciar.","negation","double negative","I do not want to divorce myself.","do(n't|n’t| not) ever|never want|don't want to ever",,"do(n't| not).*never"
+"mar131","pten","Não vejo nenhuma razão de não viajar amanhã.","negation","double negative","I don't see any reason why I don't travel tomorrow.|I don't see any reason why not to travel tomorrow.","do(n't| not) see any reason not to|no reason not to",,"no travel|nothing travel"
+"mar132","pten","João alimentou o cachorro porque ele gostava dele.","non-verbal agreement","coreference",,"he liked it",,"him"
+"mar133","pten","Maria comprou o vestido porque ficou lindo nela.","non-verbal agreement","coreference",,"it.*on her","Maria bought the dress because it was beautiful.|Mary bought the dress because she looked beautiful.|Mary bought the dress because I love it.|She bought her dress because she was liking her.","on him|on it"
+"mar134","pten","O menino bebe leite porque ele faz bem para a sua saúde.","non-verbal agreement","coreference",,"it.*his health",," he | her | your |Children"
+"mar135","pten","O Arturo gostou do presente que a sua mãe deu a ele.","non-verbal agreement","coreference","Arturo liked the gift your mother gave him.","his.*him",,"it"
+"mar136","pten","A maçã faz bem para a saúde dela, mas ela faz mal para a minha alergia.","non-verbal agreement","coreference",,"her health, but it","An apple is good for the health of it, but it is bad for my allergies.","its health|but she"
+"mar137","pten","Deus odeia o racismo, e você?","punctuation","comma",,", and|, do you|, what about you|, do(n't|n’t) you",,
+"mar138","pten","Eu quero comer, gente!","punctuation","comma",,", (guys|people|folks)","I don't want to eat, we don't want to eat.",
+"mar139","pten","Proibido no restaurante: fumar, animais, bebês.","punctuation","comma","Prohibited in the restaurant: smoking, pets, baby.",": smoking, (animals|pets), babies|No smoking,.*animals,.*babies",,"smoking animals"
+"mar140","pten","Não fui ao seu aniversário, mas trouxe o presente hoje.","punctuation","comma",,", but",,
+"mar141","pten","A minha mãe, que gosta muito de academia, vai correr uma maratona.","punctuation","comma",,", who",,"which|that"
+"mar142","pten","Estava escrito «Alguém perguntou “Quem foi que gritou ‘Meu Deus!’?”.» na folha de papel.","punctuation","quotation marks",,"\"".*'.*\"".*\"".*'.*\""","It was written ""Someone asked,"" Who was it that cried 'My God!'? "". ' the sheet of paper.|It said ""Someone asked,"" Who was it that shouted 'My God!'? "" on the sheet of paper.|I was written, 'Thebody asked: 'Who did you shout 'Meu God'?|It was written, ""Someone asked, 'Who was it that shouted' My God! '?"" on the sheet of paper.","\"".*"".*\'.*\'.*""|»|«"
+"mar143","pten","Minha mãe disse «Mariana, é importante ter bons amigos».","punctuation","quotation marks",,"\"".* (it's|it is) .*\""| '.* (it's|it is) .*'","My mother said ""Mariana, it's important to have good friends.","( '.*\"")| (\"".* (it's|it is) .*' )|«|»"
+"mar144","pten","O jóvem gritou “Socorro!”.","punctuation","quotation marks","The jóvem, screaming, “help me!”.","\"".*\""","The young man cried out ""Help!",
+"mar145","pten","—Emília — disse ele —, me faz um favor?","punctuation","quotation marks",,"\"".*,"" he said, \"".*\""","""Emilia,"" he said, ""Do you do me a favor?|""Smília ,"" he said, please do me a favour?","-|—"
+"mar146","pten","O Pedrinho disse para a Emília —Avisa para a vovó que eu vou chegar tarde em casa.","punctuation","quotation marks","Pedrinho said to Emília ""Tell Grandma that I'm going to be home late.""",", \"".*\""","Pedrinho said to Emília “Tell Grandma that I'm going to be home late.|The young man said to her until she Cautions, the grandma that I'm going to be late getting home.|The Pedrinho said to Emília ""Avisa for the vocabula that I'll arrive late at home.|Little Peter said to Emilia, ""Tell Grandma I'll be home late.","-|—|, Tell"
+"mar147","pten","Hoje em dia é difícil encontrar gente fina.","mwe","collocation",,"educated|sophisticated|nice",,"thin|fine"
+"mar148","pten","É só preciso um pouco de bom senso para evitar muitos problemas na vida.","mwe","collocation",,"common sense",,"good sense"
+"mar149","pten","A beleza deslumbrante da mulher inspirou o artista.","mwe","collocation",,"breathtaking|breath-taking|dazzling","The delugeous beauty of women inspired the artist.","shining|stunning|gorgeous"
+"mar150","pten","Tenho ódio mortal do Joaquim.","mwe","collocation",,"murderous|deadly hatred",,"mortal"
+"mar151","pten","O tráfego de espécies selvagens é crime!","mwe","collocation",,"trafficking of wild animals|Wildlife trafficking|wildlife trafficking",,"species|traffic |Traffic"
+"mar152","pten","Eu cometi vários erros na prova.","mwe","verbal mwe",,"made",,"committed"
+"mar153","pten","Eu prestei socorro a vítima.","mwe","verbal mwe","I assisted the victim.|I have to help the victim.","helped|provided (help|aid)|come to.*aid",,"rendered|watched"
+"mar154","pten","O jogador marcou um gol sensacional.","mwe","verbal mwe",,"scored",,"marked"
+"mar155","pten","Passei a manhã em casa, então quero dar um passeio à tarde.","mwe","verbal mwe",,"go for|go on|take (a walk|stroll)",,"give|make"
+"mar156","pten","Acredito que tomei a decisão certa.","mwe","verbal mwe",,"made",,"took"
+"mar157","pten","Pisei na bola, me desculpem.","mwe","idiom",,"dropped the ball|(S|s)crewed up","I took the ball, excuse me.","Stepped|stepped|hit"
+"mar158","pten","Está chovendo a cântaros.","mwe","idiom",,"cats and dogs","It's raining in torrents.|It's raining in sheets.|It is raining on the swamp.","pitchers?|jugs?"
+"mar159","pten","Vou precisar encher linguiça para escrever mil palavras sobre esse assunto.","mwe","idiom",,"waffle","I will need to fill up to write a thousand words about this.","fill up|sausage"
+"mar160","pten","O Carlos chutou o balde.","mwe","idiom",,"gave up|threw in the towel",,"kick.*the bucket"
+"mar161","pten","Vai catar coquinho, você está enchendo o saco!","mwe","idiom","Go fuck yourself, you’re boring me!","Get lost.*(pissing me off|annoying)","You're going to get your ass out of here, you're you off!","pick|coconut|filling"
+"mar162","pten","Acima de tudo, agradeço o que fez por mim.","mwe","prepositional mwe",,"Above all|Most of all",,"On top"
+"mar163","pten","Diante de todas essas adversidades, o corredor dificilmente ganhará outra medalha.","mwe","prepositional mwe",,"In (view|light|the face) of|Faced with",,"front"
+"mar164","pten","A fim de chegar a tempo para o congresso, chamou um táxi.","mwe","prepositional mwe",,"To|In order to",,"end"
+"mar165","pten","Apesar de todos os esforços, o cãozinho não foi encontrado.","mwe","prepositional mwe",,"Despite|In spite of",,
+"mar166","pten","A respeito de regras, quem deixou a porta do prédio aberta ontem à noite?","mwe","prepositional mwe",,"Regarding|With regards to|With respect to|About.*rules|Speaking of|On the subject of rules",,
+"mar167","pten","Mas não pode ser!","function word","modal particle","But it can not be!","(But )?(I|i)t ca(n't|n’t) be|(I|i)t cannot be",,
+"mar168","pten","Bem que eu disse que ia dar certo!","function word","modal particle","I said it would work!","I did say|I told you",,"good|Well,"
+"mar169","pten","Ouça o que digo então!","function word","modal particle",,"Then|then|So",,"after|so|say\."
+"mar170","pten","Isto é que é felicidade!","function word","modal particle","This is what is happiness!|That is happiness.|Talk about happiness!","(Now )?(This|this) is (happiness|what happiness is)|That's happiness","This is what it takes.",
+"mar171","pten","Mas que água quente!","function word","modal particle","That is some hot water!","Such|What",,"But"
+"mar172","pten","Ele mora lá longe!","function word","focus particle",,"(all the way)? over there|far away","He lives there.","there far"
+"mar173","pten","Ela até que queria passar o carnval no Rio, mas os pais não deixaram.","function word","focus particle",,"(actually|even)? did want",,"until|Until|wanted|even wanted"
+"mar174","pten","Eu já te expliquei várias vezes.","function word","focus particle",,"already|several times now","I have explained it to you several times.","('ve|’ve| have) explained"
+"mar175","pten","A Denise já chegou lá em casa.","function word","focus particle",,"already arrived at (mine|my place|my house)","Denise has arrived at the house.|Denise has already arrived home.|At She's already got at home.|Denise has already arrived at home.|Denise came home.|Denise is already at home.","there|is home"
+"mar176","pten","A encomenda está aqui na loja.","function word","focus particle","The order is in the shop.","here",,
+"mar177","pten","Você foi ao cinema ontem, não foi?","function word","question tag",,", didn't you\?|, didn’t you\?","Did you go to the cinema yesterday, didn't it?","not|no|it"
+"mar178","pten","Eles vão viajar na próxima semana, não vão?","function word","question tag",,", won't they\?|, aren't they\?|, aren’t they\?|will they not","They're going to be traveling over the next week, don't go ...",
+"mar179","pten","Ela gosta de pizza, né?","function word","question tag",,", (right|doesn't she)\?",,"né\?"
+"mar180","pten","Vamos esperar vocês aqui na escola, tá?","function word","question tag",,", (ok|okay|alright)\?",,"(tá|right)\?"
+"mar181","pten","Ela é a nova professora de português, não é?","function word","question tag",,", isn't she\?|, isn’t she\?",,"not|no|is not|it"
+"mar182","pten","A Maria comeu algo, mas não sabe o que.","coordination & ellipsis","sluicing",,"what",,"the"
+"mar183","pten","Alguem bebeu o vinho, mas eu não sei quem.","coordination & ellipsis","sluicing",,"who",,"whom"
+"mar184","pten","Ela conversou com alguém, mas eu não sei com quem.","coordination & ellipsis","sluicing","She talked to someone, but I don't know who.|She talked to someone, but I don’t know who.","with whom","She talked to someone, but I do not her to whom.|She talked to someone, but I don't know who she's with.|She talked to someone, but I didn't talk to whom.|She talked to someone, but I didn't talk to who.","with who\."
+"mar185","pten","Ele é muito rico, mas eu não sei o quão rico ele é.","coordination & ellipsis","sluicing",,"how rich",,"the"
+"mar186","pten","Eles querem comprar cachorros de diferentes raças, mas eu não sei quais.","coordination & ellipsis","sluicing",,"which",,"what"
+"mar187","pten","A Ana não leva o computador para as aulas, porque os amigos também não levam.","coordination & ellipsis","VP ellipsis",,"take (them|theirs)|friends do(n't|n’t| not)( take it)?( either)?","Ana does not take the computer to class, because friends did not take.",
+"mar188","pten","A Ana já tinha lido o livro mas a Paula não tinha.","coordination & ellipsis","VP ellipsis",,"had(n't| not)",,"did(n't| not)"
+"mar189","pten","Ela só vai visitar os amigos se a Ana também for.","coordination & ellipsis","VP ellipsis","She won’t visit her friends unless Ana goes.","also goes|goes,? too","It will just visiting friends to Ana also is.|It's only going to visit friends, to Anna is.|She will only visit her friends if Ana is.",
+"mar190","pten","O João é simpático para todas as pessoas e a Ana também é.","coordination & ellipsis","VP ellipsis","João is nice to all people and So is Ana.","Ana is also|so is (Ana|Anne)","He is very sympathetic to all of the people and hannah as well.","also is|is also Ana"
+"mar191","pten","Nenhum de nós tinha votado nesse candidato nem admitiamos que alguém tivesse.","coordination & ellipsis","VP ellipsis","None of us had voted for that candidate or admitted that someone did.","that (someone|anyone) had","None of us had voted that candidate admitted it or someone had.|None of us had voted for that candidate, or admitiamos someone to be able to do.",
+"mar192","pten","O João assinou os documentos e a Maria carimbou.","coordination & ellipsis","null object",,"stamped them","He had signed all the documents, and to the blessed virgin triumph.","stamped Maria|stamped\.|stamped it|carimbou"
+"mar193","pten","Ela trouxe o computador para a Universidade e ele trouxe para o escritório.","coordination & ellipsis","null object",,"brought it","It has brought the computer back to the University, and he brought her to the office.","brought to"
+"mar194","pten","Ela tirou o anel do dedo e guardou no cofre.","coordination & ellipsis","null object",,"stored it|put it|kept it in","She took the finger of her finger and guarded her.","kept in"
+"mar195","pten","O João acertou a maioria das perguntas, mas a Maria errou.","coordination & ellipsis","null object",,"Maria didn't|Maria got them wrong",,"it"
+"mar196","pten","Quando a Ana pôs os óculos na mesa, a Maria também pôs.","coordination & ellipsis","null object","When Ana put her glasses on the table, so did Mary.|When Ana put her glasses on the table, so did Maria.","also (placed|put) hers|so did|put them,? too",,"put\.|set\.|put (them|it) on"
+"mar197","pten","Preciso da sua ajuda!","coordination & ellipsis","null subject",,"I need","We need your help!",
+"mar198","pten","Eres bom motorista.","coordination & ellipsis","null subject",,"You('re|’re| are)","Art a good driver.|Good driver.","Eres|were"
+"mar199","pten","Pode comer o quanto quiser do bolo.","coordination & ellipsis","null subject",,"(You|He|She) can eat|You can have",,
+"mar200","pten","Caminhamos até o parque.","coordination & ellipsis","null subject",,"We","Let us go to the park.",
+"mar201","pten","Poderiam ter estudado mais antes da prova.","coordination & ellipsis","null subject",,"They could|You could","It could have been a student most of the competition.",
+"mar202","pten","A minha encomenda será entregue na segunda.","named entity & terminology","date & numbers",,"Monday",,"second"
+"mar203","pten","A carta deve chegar na segunda-feira.","named entity & terminology","date & numbers",,"Monday",,"second"
+"mar204","pten","Meu aniversário é dia 20 de janeiro.","named entity & terminology","date & numbers",,"20th of January|January 20th","My birthday is January 20.","january|(20 )"
+"mar205","pten","1º de janeiro marca o início do novo ano.","named entity & terminology","date & numbers",,"January 1st",,"(1 )"
+"mar206","pten","A filha dela está na 3ª série.","named entity & terminology","date & numbers",,"(third|3rd) grade",,"series|(3 )"
+"mar207","pten","A minha família tem uma fazenda em Campo Belo.","named entity & terminology","location",,"Campo Belo",,"beautiful field|Beautiful Countryside"
+"mar208","pten","A mais famosa cidade do Brasil é o Rio.","named entity & terminology","location",,"Rio",,"river|River"
+"mar209","pten","São Paulo é a cidade mais populosa do Brasil.","named entity & terminology","location",,"São Paulo",,"Saint|saint|(Paul )"
+"mar210","pten","Meu avô naceu em Poços de Calda.","named entity & terminology","location","I was born my grandfather in Pocos de Calda.","Poços de Calda","My grandfather was born in Calda Bridges.","well|ditch|Pits|Well"
+"mar211","pten","A capital do Brasil é Brasília.","named entity & terminology","location",,"Brazil.*Brasilia",,"(Brasil )|Brasília"
+"mar212","pten","Meu nome é João Antônio.","named entity & terminology","proper name",,"João Antônio.","My name is João Antinnio.","John|Anthony"
+"mar213","pten","O Pedrinho gostava de quicar pedras na água.","named entity & terminology","proper name",,"Little Pedro","The young man liked to bounce rocks in the water.","Stone|(stone )|Pedrinho"
+"mar214","pten","Quando eu era criança as pessoas me chamava de Marianinha.","named entity & terminology","proper name",,"little Mariana|Marianita","When I was a kid, people called me and I.|When I was a child, people called me Mariana.","Marianinha"
+"mar215","pten","Tirei uma foto do topo do Pão de Açúcar.","named entity & terminology","proper name",,"Sugarloaf Mountain","I took a photo from the top of the Sugar Company.","bread|sugar|sugarloaf|Sugar Loaf mountain|Sugar Loaf( Mountain)?"
+"mar216","pten","O maior estádio do Rio de Janeiro é o Maracanã.","named entity & terminology","proper name",,"Rio de Janeiro.*Maracanã.",,"Maracana"
+"mar217","pten","Vai cair um toró.","named entity & terminology","domain specific",,"storm|rain cats and dogs|downpour","You're going to drop a cake.|It is going to fall down.","toró|toro|log|whirlwind"
+"mar218","pten","Meu pai não gasta dinheiro por nada, ele é um pão-duro.","named entity & terminology","domain specific",,"miser|cheapskate|tightwad","My dad doesn't spend money for nothing.|My dad doesn’t spend money for anything.","bread|loser"
+"mar219","pten","Nossa, que mulher gata!","named entity & terminology","domain specific",,"(attractive|beautiful|cute|hot) woman|woman is hot","Ours, what a pregnant woman","cat"
+"mar220","pten","Foi mal cara, minha intenção não foi te prejudicar.","named entity & terminology","domain specific","That was wrong, my intention was not to harm you.","dude","My intention was not to harm you.|It was bad, my intention was not to harm you.","face|guy|expensive|It was bad"
+"mar221","pten","Esse projeto é muito bacana.","named entity & terminology","domain specific",,"cool|nice","This project is very bald.","bacana|banana"
+"mar222","pten","Era um pássaro que dormia.","subordination","cleft sentence",,"It was.*that","It was a bird slept.|It was a sleeping bird.",
+"mar223","pten","Foi um pássaro que morreu.","subordination","cleft sentence","It was a bird who died.","It was.*that",,"A"
+"mar224","pten","Onde foi que você foi?","subordination","cleft sentence",,"Where is it that",,"Where did|Where have|Where were"
+"mar225","pten","Quem vai é o Carlos.","subordination","cleft sentence",,"It is Carlos who|Carlos is the one|Carlos will be the one","Carlos is going.|Who is the Audience.","Who is going"
+"mar226","pten","O que quero é dormir.","subordination","cleft sentence","What you want to do is sleep.","What I want is",,"I want to"
+"mar227","pten","Ele disse que começara seu tratamento no dia anterior.","subordination","indirect speech",,"He said (that )?he (had )?(started|begun)|He said he’d started",,"He started"
+"mar228","pten","Eles disseram que viajariam no dia seguinte.","subordination","indirect speech","They said they had traveled on the next day.","They said they('d| would).*travel|They said they'd be away",,
+"mar229","pten","Pediu que não lhe ligasse mais.","subordination","indirect speech",,"asked not to be called|asked me not to call (him|her)","Asked did not call you more.|He asked who do not care any more.|He asked him not to league him anymore.",
+"mar230","pten","O aluno afirmara que precisava estudar muito para a prova.","subordination","indirect speech",,"(had )?(asserted|claimed|stated|said).*he needed to",,
+"mar231","pten","O réu afirmou que era inocente.","subordination","indirect speech",,"(affirmed|said|stated|claimed).*he was innocent",,
+"mar232","pten","Não irei já que você não irá.","subordination","adverbial clause","I'm not going to because you're not going to go.","since","No longer will you will not.|I will not go as far as you will.",
+"mar233","pten","Paula mais trabalha do que estuda.","subordination","adverbial clause","Paula works harder than she studies.","more than","Paula works in the study.|Paula more works than studying.",
+"mar234","pten","Ainda que haja grandes obstáculos, não desistirei.","subordination","adverbial clause",,"Although|Though|Even if",,
+"mar235","pten","A fazenda prosperará se chover.","subordination","adverbial clause",,"if",,
+"mar236","pten","Vítor fez tudo conforme o professor pediu.","subordination","adverbial clause",,"as",,
+"mar237","pten","Chorou tanto que a família se surpreendeu.","subordination","adverbial clause",,"that","It shocked the family as much as it surprised me.",
+"mar238","pten","Cumpra seus deveres para que possa exigir seus direitos.","subordination","adverbial clause",,"so (that)?",,
+"mar239","pten","Quanto mais convivo contigo, mais te amo.","subordination","adverbial clause",,"The more.*, the more","The more I live with you, love you more.|How much more will I live to thee, the more I love you.",
+"mar240","pten","Júlio deve fazê-lo até que o sol se ponha.","subordination","adverbial clause",,"until","Jules must do so, it is up to the going in of the sun.",
+"mar241","pten","Moro onde não mora ninguém.","subordination","adverbial clause",,"where","Where I live do not live anyone.",
+"mar242","pten","Caminhou sem fazer nenhum ruído.","subordination","adverbial clause",,"without",,
+"mar243","pten","A mulher, a qual fora assaltada, ficou estupefata.","subordination","relative clause",,"The woman, who","The woman he had been robbed, he was stunned.|The woman, which had been attacked, was stupefed.",
+"mar244","pten","A mulher a qual fora assaltada ficou estupefata.","subordination","relative clause","The woman he had been robbed was stunned.","The woman who|that","The woman he assaulted outside was stunned.|The woman to which she was robbed was stupefed.",
+"mar245","pten","O instituto, que prometeu nova ajuda a alguns países, mandou representantes às regiões.","subordination","relative clause",,"The (institution|institute),? (that|which)","The institute, in which he promised new to some countries sent representatives to regions.","who"
+"mar246","pten","O político cujo mandato foi cassado será preso.","subordination","relative clause",,"whose",,
+"mar247","pten","O homem que fuma vive menos.","subordination","relative clause",,"man (who|that)",,
+"mar248","pten","É preciso que você saiba viver.","subordination","content clause",,"that you know how to live|You (need to|have to|must) know how to live","You need to learn to live by.",
+"mar249","pten","Espero que vocês tenham êxito.","subordination","content clause",,"(that )?you are successful|(that )?you('ll| will) succeed|(that )?you succeed",,"have"
+"mar250","pten","Gosto de que nos respeitem.","subordination","content clause","I like that they respect us.","for us to be","I like to respect us.|I like to be respected.|I like you to respect us.|I like that you respect each other.","that we are"
+"mar251","pten","Tenho certeza de que haverá comida.","subordination","content clause",,"(that )?there('ll|’ll| will) be",,
+"mar252","pten","Desejo sinceramente isto: que vocês sejam felizes.","subordination","content clause",,"that you are happy|you to be happy|you be happy|that you will be happy",,
+"mar253","pten","A verdade é que eles serão reprovados.","subordination","content clause",,"(that )?they('ll|’ll| will) fail|they('re| are) going to fail|they will be failed",,"reproach|disapprove"
+"mar254","pten","A aula foi ministrada por quem a preparou.","subordination","content clause",,"by (the person | he |those )?who",,"by whom"
+"mar255","pten","Meu desejo era viajar para a Grécia.","subordination","reduced clause",,"was to (visit|travel to)","I wanted to travel to Greece.",
+"mar256","pten","Encontrei as crianças brincando de bombeiro no jardim.","subordination","reduced clause",,"playing",,
+"mar257","pten","Apresentado o resultado, todos discordarão.","subordination","reduced clause",,"will disagree","The result, they all would disagree.",
+"mar258","pten","Pediram para eu fazer isto.","subordination","reduced clause",,"to do",,
+"mar259","pten","Não há segredos entre mim e você.","subordination","reduced clause","There is no secrets between me and you.","There are",,
+"mar260","pten","Espere-me, por gentileza, que irei com você.","subordination","reduced clause","Please wait for me to come with you.","I('ll|’ll| will) go",,
+"mar261","pten","A maior parte da população é luso-brasileira.","ldd & interrogatives","compound adjective",,"Portuguese-Brazilian","The majority of the population is of Portuguese-brazil.","Luso|luso"
+"mar262","pten","A cor do meu cabelo é castanho-escuro.","ldd & interrogatives","compound adjective",,"dark brown",,"cashew|castanho"
+"mar263","pten","Esse sapato rosa-choque não vai combinar com nenhum vestidos.","ldd & interrogatives","compound adjective",,"(hot|bright) pink|hot-pink",,"shock|That pink shoe|This pink shoe|rose pink"
+"mar264","pten","Veja aquele passarinho amarelo-canário!","ldd & interrogatives","compound adjective",,"bright yellow|canary-yellow|canary yellow","Look at that little yellow bird!|Look at that yellow cook.","canary bird|yellow canary"
+"mar265","pten","O homem é surdo-mudo.","ldd & interrogatives","compound adjective",,"(deaf and )?dumb","The man is deaf.","deaf-mute"
+"mar266","pten","O pôr do sol é belíssimo no verão.","ldd & interrogatives","derived adjective",,"very beautiful|gorgeous|stunning",,"beautiful"
+"mar267","pten","O cachorro magrelo não come há dias.","ldd & interrogatives","derived adjective",,"scrawny|skinny","I did not sleep for days.",
+"mar268","pten","O homem bondoso alimentou a criança faminta.","ldd & interrogatives","derived adjective","The warm-hearted man, he fed the starving child.","kind|good|merciful","The man bonded the starving child.",
+"mar269","pten","Ela queria comprar a bolsa da Gucci, mas estava caríssima.","ldd & interrogatives","derived adjective",,"very expensive|far too expensive","She wanted to buy the Gucci Stock Exchange, but she was affectionate.","was (too )?expensive"
+"mar270","pten","Não converso com pessoas hipócritas.","ldd & interrogatives","derived adjective",,"hypocritical people|hypocrites","Hypocrites do not talk to people.|Don't talk to people as hypocrites.",
+"mar271","pten","É frustrante ninguém querer participar do evento.","ldd & interrogatives","extraposition","It's frustrating to no one wanting to take part in the event.","It('s|’s| is) frustrating (that)?","It's frustrating to anyone wanting to attend the event.",
+"mar272","pten","É óbvio que ele ama a sua esposa.","ldd & interrogatives","extraposition","Obviously he loves his wife.|He obviously loves his wife.|He loves his wife, of course.","It('s| is) obvious (that)?",,
+"mar273","pten","Encontrei uma pessoa ontem que não via há muito tempo.","ldd & interrogatives","extraposition","I met a person yesterday who I haven't seen in a long time.|I met a person yesterday who hadn't seen in a long time.|I met someone yesterday i hadn't seen in a long time.","(that|who)? I had(n't|n’t| not)","I met a person yesterday had not seen for a long time.|I met a person yesterday who did not travel a long time ago.",
+"mar274","pten","O que aconteceu de tão constrangedor que o Humberto não apareceu no trabalho hoje?","ldd & interrogatives","extraposition","What was so embarrassing that Humberto didn't show up for work today?|What was so embarrassing that Humberto didn't show up at work today?","that was so (awkward|uncomfortable|embarrassing) that","What had happened was so embarrassing that it's the "" The did not turn up for work today?|What has happened so distressingly that Humberto did not appear in the job today?","What happened so embarrassing"
+"mar275","pten","Foi uma pena você desistir dos seus sonhos.","ldd & interrogatives","extraposition",,"It('s|’s| is| was) a (shame|pity) (that)?",,
+"mar276","pten","Ou você compra uma blusa e uma calça, ou uma blusas e um par de sapatos.","ldd & interrogatives","multiple connectors",,"(Either|either).*or",,"Or.*or"
+"mar277","pten","Não sei se devo comer o doce. Por um lado, ele é delicioso, por outro lado, ele engorda muito.","ldd & interrogatives","multiple connectors","I do not know if I have to eat sweet, on the one hand he is delicious, and on the other he is fattening.","On the one hand.*on the other hand",,
+"mar278","pten","Tanto Joana quanto Júlia sabiam a resposta correta.","ldd & interrogatives","multiple connectors",,"Both|as well as",,
+"mar279","pten","Ela não gostou do vestido nem da saia.","ldd & interrogatives","multiple connectors",,"neither.*nor|did(n't|n’t| not) like.*or",,
+"mar280","pten","Quanto mais reclamava menos atenção recebia.","ldd & interrogatives","multiple connectors",,"The more.*the less","The more I asked for less attention.","received less"
+"mar281","pten","Quão interessante será a aula de hoje?","ldd & interrogatives","pied-piping","How cool is today's lesson?","How interesting",,
+"mar282","pten","Com quem a Andreia brincou no parque?","ldd & interrogatives","pied-piping",,"With whom","The Andreas played on the playground?","Who"
+"mar283","pten","A quem pertence este livro?","ldd & interrogatives","pied-piping","Who owns this book?","To whom does this book belong|Whom does this book belong to","For whom is this book?","(Who )"
+"mar284","pten","De quem é este caderno?","ldd & interrogatives","pied-piping",,"Whose notebook","Whose is this book?|For anyone who is on this notebook?|Who is this specification?",
+"mar285","pten","Por quem você está esperando?","ldd & interrogatives","pied-piping","Who are you waiting for?","For whom.*waiting\?","For whom are you waiting for?|By whom are you waiting?",
+"mar286","pten","O que você quer cozinhar hoje?","ldd & interrogatives","q-movement",,"What",,
+"mar287","pten","Quantos anos você tem?","ldd & interrogatives","q-movement",,"How old","How many more years do you have?","many"
+"mar288","pten","Qual casa ele comprou?","ldd & interrogatives","q-movement",,"Which|What",,"Whose"
+"mar289","pten","Como foi a prova de matemática?","ldd & interrogatives","q-movement",,"How",,"As|What"
+"mar290","pten","Quando você vai viajar?","ldd & interrogatives","q-movement",,"When",,
+"mar291","pten","Quem contou essa história para você?","ldd & interrogatives","q-movement",,"Who",,
+"mar292","pten","Por que você não varreu o chão?","ldd & interrogatives","porque",,"Why",,
+"mar293","pten","Levantaste só agora por quê?","ldd & interrogatives","porque",,"Why|, why\?|, why is that\?","Lifted only now why?|You just got up for what?|Just ask why?",
+"mar294","pten","Não sei o porquê de sua atitude tão grosseira.","ldd & interrogatives","porque","I do not know why he is so gross.","reason|why you were|why you(’re| are)|why (your|his) attitude is","I do not know why its so rude attitude.|I don't know what your attitude is so rude.","the why|what"
+"mar295","pten","Não fale alto porque o bebê está dormindo.","ldd & interrogatives","porque",,"because",,
+"mar296","pten","Por diversão, eu corro todas as manhãs.","ldd & interrogatives","topicalization",,"For fun|For the fun of it","By fun, I beat every morning.",
+"mar297","pten","Porque o professor era chato, ninguém foi à escola.","ldd & interrogatives","topicalization",,"Because",,"because"
+"mar298","pten","Essa pizza belga eu não como.","ldd & interrogatives","topicalization","This Belgian pizza, I won't eat.","I won't eat","That Belgian pizza I am not.","I do(n't|n’t) eat|I don't like|I did not like"
+"mar299","pten","De pessoas mal-humoradas eu passo longe.","ldd & interrogatives","topicalization","Of cranky people I pass away.|I don’t get along with grumpy people.","(Grumpy|Moody|Cranky) people, I avoid|From.*people","I pass away from people who are moody.|The ill-natured, I step away.|I am far from grumpy people.|I will stay away from grumpy people.",
+"mar300","pten","Pela honra de tê-la em minha casa, cozinharei um jantar especial.","ldd & interrogatives","topicalization",,"(For the|In) honor","I had the honour of having her in my home, cooking a special dinner.",
+"mar301","pten","Você gosta de chocolate? Gosto.","ldd & interrogatives","direct object omissions & polar questions",,"I do","Do you like chocolate?","Like|Taste|Enjoy|I like"
+"mar302","pten","Ele estuda todos os dias? Estuda.","ldd & interrogatives","direct object omissions & polar questions",,"He does|Yes, he does","We're studying each day. Get started.|He studies every day?","Study|Studies"
+"mar303","pten","Ela cozinha bem? Cozinha.","ldd & interrogatives","direct object omissions & polar questions",,"She does|Yes, she is","She cooks well?|She cooks well, Cozinha.","Kitchen|kitchen"
+"mar304","pten","Vocês aceitam Mastercard? Aceitamos.","ldd & interrogatives","direct object omissions & polar questions",,"We do",,"Accept|accept\."
+"mar305","pten","Eles conhecem Portugal? Conhecem.","ldd & interrogatives","direct object omissions & polar questions",,"They do|Yes, they do",,"(They|You) know|Know"
+"mar306","pten","Contou a ele sobre a festa?","ldd & interrogatives","direct object omissions","Did he talk about the party?","Did you",,"told"
+"mar307","pten","Falou para ela parar de gritar?","ldd & interrogatives","direct object omissions",,"Did you","You spoke to she stop shouting?","Told|told"
+"mar308","pten","Chegarão atrasados?","ldd & interrogatives","direct object omissions",,"Will they|Are you going to|Will you","You will arrive late?","They"
+"mar309","pten","Completamos o jogo?","ldd & interrogatives","direct object omissions",,"Did we (complete|finish)|Have we completed","Shall we complete the game?|Are we completing the game?","We"
+"mar310","pten","Vamos?","ldd & interrogatives","direct object omissions","Are we going?""|Are we going?","Shall we|Let's go|Will we",,"We"
+"mar311","pten","O treinador quer que eu faça parte do time.","verb tense/aspect/mood","subjuntivo presente",,"to be (a )?part of|to be on",,"to do"
+"mar312","pten","Tomara que ele espere por mim!","verb tense/aspect/mood","subjuntivo presente","Let us hope that he will wait for me.|I hope he will wait for me.","he waits|will wait","I hope he wait for me!",
+"mar313","pten","Não façam nada antes que eu escreva a carta de reclamação.","verb tense/aspect/mood","subjuntivo presente",,"(Do|do).*write",,
+"mar314","pten","Minha mãe quer que eu fale mais alto.","verb tense/aspect/mood","subjuntivo presente",,"wants.*to (speak|talk)",,
+"mar315","pten","Meu pai deseja que eu encontre uma boa esposa.","verb tense/aspect/mood","subjuntivo presente",,"wants.*to find|hopes.*find|wishes.*to find",,
+"mar316","pten","Eu iria ao evento se eu estivesse disponível, mas não estou.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"('d|’d|would) go.*if I were","I would be in the event that I'm available, but I'm not.","was"
+"mar317","pten","Se chovesse, o incêndio que assola a região há semanas cessaria.","verb tense/aspect/mood","subjuntivo pretérito imperfeito","If rain were raining, the fire that was raging in the region a few weeks ago would cease.","If it rained.*would (stop|cease)","If you're the fire that ravaged the region for a couple of weeks would end.",
+"mar318","pten","Tudo seria mais fácil se eles parassem de brigar.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"would be.*if they stopped (fighting|arguing|squabbling)|would be.*if they would stop (fighting|arguing|squabbling)","It would be easier if they did get into a fight.","they stop "
+"mar319","pten","Se você soubesse o quanto eu me esforço, você não seria tão crítica de mim.","verb tense/aspect/mood","subjuntivo pretérito imperfeito","If you only knew how much I want you, you wouldn't be so critical of myself.","If you knew.*would(n't|n’t| not) be",,
+"mar320","pten","Ele teria mais amigo se fosse mais simpático.","verb tense/aspect/mood","subjuntivo pretérito imperfeito","He would have more friends if it were more sympathetic.|He would have more friend if it were nicer.","('d|’d|would) have.*if he were","It would be more friendly if it were the most fun.","was"
+"mar321","pten","Ninguém acredita que vocês tenham terminado o trabalho.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto","No one believes that you've done your job.","believes.*('ve|have) finished",,"you finished"
+"mar322","pten","Não posso emprestar o livro sem que meu filho o tenha lido todo.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"lend.*having read|lend.*until.*has read","No, I can lend you the book my son read it all.","borrow"
+"mar323","pten","Eu espero que ela já tenha ligado para o colégio.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"hope.*('s|has) (already )?called","I hope that she's already on the way to school.|I hope she already called the school.|I hope it has been linked to the college.",
+"mar324","pten","Eu espero que ele não a tenha traido.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"hope.*has(n't| not) (cheated|betrayed)","I hope that he / she will not be betrayed.","did(n't|n’t| not)"
+"mar325","pten","Não vou te oferecer a sobremesa antes que você tenha terminado de comer o prato principal.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto","I'm not going to give you your dessert before you've finished eating the main course.|I'm not offering you dessert until you're done eating the main course.","offer.*you('ve|’ve| have) finished eating",,
+"mar326","pten","Teria sido tudo mais fácil se eles tivessem cumprido o prometido.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto","It would have been easier if they had lived up to its promises.","would have been.*if.*had (fulfilled|kept)",,
+"mar327","pten","Nós poderíamos ter ido à festa se você tivesse chegado cedo a casa.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"could have gone.*if.*('d|’d|had) (arrived|come|gotten home)","We could have gone to the party if you had to come early to your home.",
+"mar328","pten","Ele não ficaria tão chateado se eu tivesse dito a verdade.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"would(n't|n’t| not) have been.*if.*('d|had).*told|would(n't|n’t| not) be.*if.*('d|had).*(told|said)",,"I told him"
+"mar329","pten","Ele estaria mais bem-humorado se tivesse dormido bem.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"would have been.*if.*('d|had) slept|('d|’d|would) be.*if.*('d|’d|had) slept","It would be more funny if they had gone to bed as well.|He would be better off if he had sleep well.",
+"mar330","pten","Eu teria ajudado você se você tivesse me pedido por apoio.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto","I would have helped you if you were to have asked me for the support.","would have helped.*if.*had asked",,
+"mar331","pten","Apenas poderei sair quando ela chegar.","verb tense/aspect/mood","subjuntivo futuro","I won't be able to leave until she gets here.|I won’t be able to leave until she gets here.","will (only )?be able.*arrives|can only leave.*arrives",,
+"mar332","pten","Conversarei com eles quando estiverem disponíveis.","verb tense/aspect/mood","subjuntivo futuro",,"('ll|’ll| will) (speak|talk).*('re|’re| are)",,"Speak|Talk"
+"mar333","pten","Quando você quiser, iremos visitar minha avó.","verb tense/aspect/mood","subjuntivo futuro","When you want to, we will go to visit my grandmother.","want.*('ll|’ll|will) (go )?visit",,
+"mar334","pten","Assim que ele escolher a data, organizarei a festa.","verb tense/aspect/mood","subjuntivo futuro",,"(picks|chooses).*('ll’ll||will) (organize|arrange|organise)|has chosen.*('ll’ll||will) (organize|arrange|organise)","Once he chooses the date, arrange the party.|Once they have chosen a date, organize a party.",
+"mar335","pten","Quando você mandar, a empregada buscará as roupas.","verb tense/aspect/mood","subjuntivo futuro","When you send you, the employee will look for the clothes.","(say so|order|send).*will (collect|fetch|get|pick up)","When you send the maid seek the clothes.|When you have it, the housekeeper will look to the outfits.",
+"mar336","pten","Eu te aviso quando eu tiver terminado a arrumação.","verb tense/aspect/mood","subjuntivo futuro composto",,"('ll| will) let you know.*('ve|have) finished|('ll|’ll| will) let you know.*('m|’m|am) done","I notice that when I've finished tidying up.|I warn you when I have finished the tidying.",
+"mar337","pten","Comece a preparar a comida apenas quando nós já tivermos chegado.","verb tense/aspect/mood","subjuntivo futuro composto","Start preparing the food only when we have we arrived.|We are preparing for food only when we have arrived.","(Start|start) preparing.*('ve|’ve|have) (already )?arrived","Start by preparing the food, just when we've we've been.",
+"mar338","pten","Pare de reler o texto apenas quando você tiver entendido completamente o seu sentido.","verb tense/aspect/mood","subjuntivo futuro composto","Stop re-reading of the text only when you have completely understood the meaning.","(Stop|stop) re-?reading.*have fully understood","Stop re-read the text only when you have fully understood its meaning.|Stop reread the text only when you have fully understood your meaning.",
+"mar339","pten","Quando eles tiverem terminado o dever de casa, poderão jogar futebol.","verb tense/aspect/mood","subjuntivo futuro composto","When they finish their homework, they can play football.","('ve|have) finished.*(can|may|will be able to) play",,
+"mar340","pten","Quando eu tiver aprendido a escrever com a minha mão esquerda, serei ambidestra.","verb tense/aspect/mood","subjuntivo futuro composto",,"('ve|’ve|have) (learnt|learned).*('ll|’ll|will) be","When I have learnt to write with my left hand, I can be ambidextrous.",
+"mar341","pten","Embora ainda jovem, Marcos tocava bem a bateria.","false friends","false friends",,"drums",,"battery"
+"mar342","pten","Ela nunca assumiu a maternidade daquela criança.","false friends","false friends",,"accepted|admitted|took responsibility for",,"assume"
+"mar343","pten","Ele tinha o costume de fumar no balcão.","false friends","false friends",,"habit|used to",,"costume"
+"mar344","pten","O discurso do palestrante foi bom.","false friends","false friends",,"speech",,"discourse"
+"mar345","pten","Nélio é o meu editor.","false friends","false friends",,"publisher",,"editor"
+"mar346","pten","Otávio pediu-me para falar em particular.","false friends","false friends",,"in private|privately",,"in particular"
+"mar347","pten","Esqueci-me da pasta verde sobre a mesa.","false friends","false friends",,"folder",,"pasta|paste"
+"mar348","pten","Onde você pôs a agenda da vice-diretora?","false friends","false friends",,"diary|calendar",,"agenda"
+"mar349","pten","Você pretende se casar.","false friends","false friends",,"intend",,"pretend"
+"mar350","pten","Nem assistiu, nem deixou ninguém assistir à vitória do Palmeiras.","false friends","false friends",,"watch",,"assist"
+"mar351","pten","O Rafael é muito simpático!","false friends","false friends",,"nice|friendly",,"simpathetic"
+"mar352","pten","Era quase analfabeta, mas educada.","false friends","false friends",,"polite",,"educated"
+"mar353","pten","Marcia ainda está no colégio.","false friends","false friends",,"school",,"college"
+"mar354","pten","Estou convicto da importância da propaganda.","false friends","false friends",,"convinced",,"convicted"
+"mar355","pten","Só no fim da vida ela realizou o seu sonho.","false friends","false friends",,"fulfill",,"realize"
+"mar356","pten","A patroa mandou gravar o nome da empregada no recipiente.","false friends","false friends",,"container",,"recipient"
+"mar357","pten","João é adepto de cigarros.","false friends","false friends",,"addict|fan",,"adept"
+"mar358","pten","Eu preciso economizar 55 mil reais.","false friends","false friends",,"save|spare",,"econom"
+"mar359","pten","Posso te auxiliar?","false friends","false friends",,"help|aid|assist",,"auxiliate"
+"mar360","pten","Ele era um homem iluminado do seu tempo.","false friends","false friends",,"enlightened",,"illuminated"
+"mar361","pten","Comprarei apenas o suficiente para lavar a roupa.","verb tense/aspect/mood","indicativo futuro do presente",,"I('ll| will) buy",,
+"mar362","pten","Falarás em meu nome.","verb tense/aspect/mood","indicativo futuro do presente",,"You will speak",,
+"mar363","pten","Somente conhecerão a nova diretora na reunião dos pais.","verb tense/aspect/mood","indicativo futuro do presente",,"(They|You) will (only )?(meet|know)",,
+"mar364","pten","Não voltareis a pecar.","verb tense/aspect/mood","indicativo futuro do presente",,"You (will not|won't|will never) sin again",,
+"mar365","pten","Mesmo exausta, ela cuidará daquele paciente na UTI.","verb tense/aspect/mood","indicativo futuro do presente",,"she (will care for|will take care of)",,
+"mar366","pten","Telefonaremos ao papai ainda nesta semana.","verb tense/aspect/mood","indicativo futuro do presente",,"We('ll| will) call",,
+"mar367","pten","Amarás o teu próximo como a ti mesmo.","verb tense/aspect/mood","indicativo futuro do presente",,"You('ll| will| shall) love",,
+"mar368","pten","Entendereis o que eu vos digo no momento oportuno.","verb tense/aspect/mood","indicativo futuro do presente",,"You ('ll|will) understand",,
+"mar369","pten","Ela não se preocupará com o dia de amanhã.","verb tense/aspect/mood","indicativo futuro do presente",,"She (will not|won't) worry",,
+"mar370","pten","Finalmente conseguirá a desejada promoção.","verb tense/aspect/mood","indicativo futuro do presente",,"(She|He|It|You|she|he|it|you)('ll| will).*(get|manage|achieve)",,
+"mar371","pten","Nunca saberão o que se passa entre as quatro paredes daquela sala!","verb tense/aspect/mood","indicativo futuro do presente",,"(You|They) (will never|won't ever) know",,
+"mar372","pten","Sempre buscarei dar o meu melhor.","verb tense/aspect/mood","indicativo futuro do presente",,"I('ll| will) (always )?try",,
+"mar373","pten","Insistirei até minha mãe concordar em viajarmos todos juntos.","verb tense/aspect/mood","indicativo futuro do presente",,"I('ll| will) insist",,
+"mar374","pten","Faremos uma festa surpresa no seu aniversário.","verb tense/aspect/mood","indicativo futuro do presente",,"We('ll| will| shall) (have|organize)",,
+"mar375","pten","Você me amará por toda a sua vida?","verb tense/aspect/mood","indicativo futuro do presente",,"(W|w)ill.*love",,
+"mar376","pten","Você fará exatamente como mandei.","verb tense/aspect/mood","indicativo futuro do presente",,"('ll|will) do",,
+"mar377","pten","Você sempre será uma incógnita para mim.","verb tense/aspect/mood","indicativo futuro do presente",,"You('ll| will) (always )?be",,
+"mar378","pten","Ele vai dormir até tarde.","verb tense/aspect/mood","indicativo futuro do presente",,"He('ll| will) sleep|He('s| is) going to",,
+"mar379","pten","Até quando você vai continuar nessa tristeza toda?","verb tense/aspect/mood","indicativo futuro do presente",,"will.*continue|going to continue",,
+"mar380","pten","Tudo o que é seu, chegará até você.","verb tense/aspect/mood","indicativo futuro do presente",,"will (come|arrive)",,
+"mar381","pten","A cozinheira terá feito o jantar para a nossa chegada.","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have (prepared|cooked|made)",,
+"mar382","pten","Você terá compreendido toda a minha indignação ao ouvir os boatos.","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have (understood|comprehended)",,
+"mar383","pten","Quem terá ganho a Copa Libertadores?","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have won",,
+"mar384","pten","Seguramente terás tido tempo suficiente para fazeres tamanha desordem.","verb tense/aspect/mood","indicativo futuro do presente composto",,"(You|you)('ll| will) have had",,
+"mar385","pten","Ele terá usado corretamente o programa, pois o computador baixou todos os dados.","verb tense/aspect/mood","indicativo futuro do presente composto",,"('ll|will) have used",,
+"mar386","pten","Haverão feito grandes progressos na descoberta do vírus, quando saírem os primeiros resultados da vacina.","verb tense/aspect/mood","indicativo futuro do presente composto",,"(You|They)('ll| will) have made",,"There will"
+"mar387","pten","Nunca havereis provado tantas iguarias em uma única refeição.","verb tense/aspect/mood","indicativo futuro do presente composto",,"You('ll| will) (never )?have (tasted|tried)",,"have never"
+"mar388","pten","Terá colecionado muitos amigos pelos países por onde morou.","verb tense/aspect/mood","indicativo futuro do presente composto",,"(You|He)('ll| will) have collected",,
+"mar389","pten","Terei realizado os meus sonhos ao morar em Berlim!","verb tense/aspect/mood","indicativo futuro do presente composto",,"I('ll| will) have fulfilled",,
+"mar390","pten","Ela  terá recebido o diploma ao concluir o curso.","verb tense/aspect/mood","indicativo futuro do presente composto",,"(She|He|It)('ll| will) have received",,
+"mar391","pten","Terás magoado profundamente o teu irmão ao revelar-lhe a tua falta.","verb tense/aspect/mood","indicativo futuro do presente composto",,"You('ll| will) have.*(upset|hurt)",,
+"mar392","pten","O presidente terá intercedido pelo filho junto â diretoria do clube de golfe.","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have interceded|is said to have interceded",,
+"mar393","pten","Conforme combinado, os seguranças terão acesso ao refeitório do banco.","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have access",,
+"mar394","pten","Ela terá encontrado alguma forma de seduzi-lo.","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have found",,
+"mar395","pten","Haverei poupado 55 mil reais até dezembro.","verb tense/aspect/mood","indicativo futuro do presente composto",,"I('ll| will) have saved",,
+"mar396","pten","Terão vivido muitos momentos felizes até o aniversário de 30 anos de casados.","verb tense/aspect/mood","indicativo futuro do presente composto",,"(You|They)('ll| will) have (lived|had)",,
+"mar397","pten","Rafael terá completado o serviço antes do prazo.","verb tense/aspect/mood","indicativo futuro do presente composto",,"will have (finished|completed)",,
+"mar398","pten","Haverão deixado muitas saudades ao partirem.","verb tense/aspect/mood","indicativo futuro do presente composto","They will have missed you so much when you left.","You('ll| will) have left|You will be sorely missed",,
+"mar399","pten","Terei utilizado todos os argumentos possíveis para demovê-lo de vender a casa.","verb tense/aspect/mood","indicativo futuro do presente composto",,"I('ll| will) have (used|utilized)",,
+"mar400","pten","Eles terão me auxiliado sem delongas.","verb tense/aspect/mood","indicativo futuro do presente composto",,"They('ll| will) have (helped|aided|assisted)",,
+"mar401","pten","Compraria somente o suficiente para o jantar, se não tivesse tanta fome.","verb tense/aspect/mood","indicativo futuro do pretérito",,"I would buy",,
+"mar402","pten","Falarias em meu nome, mesmo depois de tudo?","verb tense/aspect/mood","indicativo futuro do pretérito",,"Would you speak",,
+"mar403","pten","Somente conheceriam a nova diretora ao final da reunião.","verb tense/aspect/mood","indicativo futuro do pretérito",,"would (only )?meet",,
+"mar404","pten","Eu seria a sua sócia na nova loja de sapatos. ","verb tense/aspect/mood","indicativo futuro do pretérito",,"would be",,
+"mar405","pten","Mesmo exausta, ela cuidaria daquele paciente na UTI.","verb tense/aspect/mood","indicativo futuro do pretérito",,"would care|would take care",,
+"mar406","pten","Telefonaríamos ao papai se ele não nos houvesse chamado antes.","verb tense/aspect/mood","indicativo futuro do pretérito",,"We would (call|ring)",,
+"mar407","pten","Amarias o teu próximo, se ele não estivesse tão próximo.","verb tense/aspect/mood","indicativo futuro do pretérito",,"You would love",,
+"mar408","pten","Não vos preocuparíeis com o futuro, se tivessem um bom emprego.","verb tense/aspect/mood","indicativo futuro do pretérito",,"You wouldn't worry|would not worry",,
+"mar409","pten","Finalmente conseguiria a desejada promoção.","verb tense/aspect/mood","indicativo futuro do pretérito",,"(He|She|he|she) would.*(achieve|get)",,
+"mar410","pten","Nunca saberiam o que se passa entre as quatro paredes daquela casa, se a vizinha não tivesse chamado a polícia.","verb tense/aspect/mood","indicativo futuro do pretérito",,"(You|They) would never know",,
+"mar411","pten","Sempre buscaria o meu melhor em qualquer situação.","verb tense/aspect/mood","indicativo futuro do pretérito",,"I would (always )?(search|look|try)",,
+"mar412","pten","Insistiria até minha mãe concordar em viajarmos todos juntos.","verb tense/aspect/mood","indicativo futuro do pretérito",,"I would insist",,
+"mar413","pten","Faríamos uma festa surpresa nos seu aniversário.","verb tense/aspect/mood","indicativo futuro do pretérito",,"We would (have|organize)",,
+"mar414","pten","Você me amaria por toda a sua vida?","verb tense/aspect/mood","indicativo futuro do pretérito",,"Would.*love",,
+"mar415","pten","Você faria exatamente como mandei.","verb tense/aspect/mood","indicativo futuro do pretérito",,"You would do",,
+"mar416","pten","Você sempre seria uma incógnita para mim, caso você não tivesse me procurado.","verb tense/aspect/mood","indicativo futuro do pretérito",,"would (always )?be|were always going to be",,
+"mar417","pten","Eles iriam dormir até tarde, se o alarme tão tivesse soado.","verb tense/aspect/mood","indicativo futuro do pretérito",,"They would sleep",,
+"mar418","pten","Até quando você iria continuar nessa tristeza toda?","verb tense/aspect/mood","indicativo futuro do pretérito",,"would.*(stay|go on|continue)",,
+"mar419","pten","Tudo o que fosse seu, chegaria até você.","verb tense/aspect/mood","indicativo futuro do pretérito",,"would (reach|come)",,
+"mar420","pten","Ela entenderia o que lhe digo, se fosse mais velha.","verb tense/aspect/mood","indicativo futuro do pretérito",,"She would understand",,
+"mar421","pten","A cozinheira teria feito o jantar para a nossa chegada.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would('ve| have) (made|prepared)",,
+"mar422","pten","Você teria compreendido toda a minha indignação ao ouvir os boatos.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"You would('ve| have) understood",,
+"mar423","pten","Quem teria ganho a Copa Libertadores, se não tivessem cancelado o último jogo ?","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would('ve| have) won",,
+"mar424","pten","Seguramente terias tido tempo suficiente para fazeres a pesquisa, se teu professor orientador fosse mais compreensivo.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"you would('ve| have) had",,
+"mar425","pten","Terias usado corretamente o programa, caso o computador tivesse baixado o PDF.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"You would('ve| have) used",,
+"mar426","pten","Teriam feito grandes progressos na descoberta do vírus, se os laboratórios não visassem apenas o lucro.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"They would('ve| have) made|would have been made",,
+"mar427","pten","Nunca terias provado tantas iguarias em uma única refeição, se tívessemos ficado em casa.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"You would('ve| have) never tasted|You would never have tasted",,
+"mar428","pten","Haveria colecionado muitos amigos estrangeiros, se tivesse morado no exterior.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"(I|He|she) would('ve| have) collected",,
+"mar429","pten","Teria realizado meus sonhos, caso pudesse viver em Berlim.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"I would('ve| have) (fulfilled|made my dreams come true)",,
+"mar430","pten","Ela teria recebido o diploma, se tivesse concluído seu curso. ","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"She would('ve| have) received",,
+"mar431","pten","Terias magoado profundamente o teu irmão, caso lhe tivesse revelado a tua falta.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"You would('ve| have).*(hurt|upset)",,
+"mar432","pten","O presidente teria intercedido pelo filho junto à diretoria, caso estivessem no clube de golfe.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would('ve| have) interceded",,
+"mar433","pten","Os seguranças teriam acessado o refeitório, se o agente da Saúde Pública tivesse chegado. ","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would('ve| have) accessed",,"have had"
+"mar434","pten","Ela teria encontrado alguma forma de seduzi-lo.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would('ve| have) found",,
+"mar435","pten","Teria poupado 55 mil reais até dezembro, se não tivesse comprado um carro.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"(I|He|She|It) would('ve| have) saved",,
+"mar436","pten","Teriam vivido muitos momentos felizes, se não fosse a depressão dela.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"They would('ve| have) (experienced|had|lived)",,
+"mar437","pten","Rafael teria completado o serviço, se não fosse a chuva.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"would('ve| have) (finished|completed)",,
+"mar438","pten","Teriam deixado muitas saudades ao partirem, portanto decidiram ficar.","verb tense/aspect/mood","indicativo futuro do pretérito composto","They would have missed them so much when they left, so they decided to stay.","They would('ve| have) left|They would('ve| have) been.*missed",,
+"mar439","pten","Teria utilizado todos os argumentos possíveis para demovê-lo da compra da casa, caso a vovó estivesse viva.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"I would('ve| have) used",,
+"mar440","pten","Eles teriam-me auxiliado sem delongas, se eu não tivesse viajado.","verb tense/aspect/mood","indicativo futuro do pretérito composto",,"They would('ve| have) (helped|assisted)",,
+"mar441","pten","Compro apenas o necessário para cada dia.","verb tense/aspect/mood","indicativo presente",,"I (buy|purchase)",,
+"mar442","pten","Tu falas em meu nome.","verb tense/aspect/mood","indicativo presente",,"You speak",,
+"mar443","pten","Somente os pais do ano passado conhecem a nova diretora.","verb tense/aspect/mood","indicativo presente",,"know",,
+"mar444","pten","Vós não quereis mal a ninguém.","verb tense/aspect/mood","indicativo presente","You do not hurt anyone.","You (mean|want)",,
+"mar445","pten","Mesmo exausta, ela cuida daquele paciente na UTI.","verb tense/aspect/mood","indicativo presente",,"she (cares|takes care)",,
+"mar446","pten","Telefonamos todos os dias.","verb tense/aspect/mood","indicativo presente",,"We call",,
+"mar447","pten","Tu amas o teu próximo como a ti mesmo?","verb tense/aspect/mood","indicativo presente",,"you love",,
+"mar448","pten","Entendes o que te digo?","verb tense/aspect/mood","indicativo presente",,"you understand",,
+"mar449","pten","Eles não se preocupam comigo.","verb tense/aspect/mood","indicativo presente",,"They are not (concerned|worried)|They don't (worry|concern|care)",,
+"mar450","pten","Finalmente consigo a desejada promoção.","verb tense/aspect/mood","indicativo presente",,"I (manage|get|achieve)","Finally with you the desired promotion.",
+"mar451","pten","Eu não sei o que se passa entre as quatro paredes daquele quarto.","verb tense/aspect/mood","indicativo presente",,"know",,
+"mar452","pten","Ela sempre busca o meu melhor.","verb tense/aspect/mood","indicativo presente",,"She.*(looks|searches|wants|seeks)",,
+"mar453","pten","Insisto até a minha mãe concordar comigo.","verb tense/aspect/mood","indicativo presente",,"I insist",,
+"mar454","pten","Raramente faço uma festa surpresa no aniversário dele.","verb tense/aspect/mood","indicativo presente",,"I.*(throw|have|organize)",,
+"mar455","pten","Você ainda me ama?","verb tense/aspect/mood","indicativo presente",,"love",,
+"mar456","pten","Você faz exatamente o que eu digo.","verb tense/aspect/mood","indicativo presente",,"do.*say",,
+"mar457","pten","Você é uma incógnita para mim.","verb tense/aspect/mood","indicativo presente",,"are",,
+"mar458","pten","Ele dorme até tarde aos domingos.","verb tense/aspect/mood","indicativo presente",,"sleeps",,
+"mar459","pten","Ela continua tristíssima.","verb tense/aspect/mood","indicativo presente",,"continues|is still|remains",,
+"mar460","pten","Tudo o que é seu, chega até você. ","verb tense/aspect/mood","indicativo presente",,"is.*(reaches|comes)",,
+"mar461","pten","Comprava apenas o necessário para cada dia.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to buy|would (only )?buy",,"bought"
+"mar462","pten","Tu falavas em meu nome.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to speak",,"spoke"
+"mar463","pten","Somente os pais do ano passado conheciam a nova diretora.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"knew|used to know",,
+"mar464","pten","Vós não queríeis mal a ninguém.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"You (meant|did(n't| not) want)",,
+"mar465","pten","Mesmo exausta, ela cuidava daquele paciente na UTI.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to care|would care|took care",,
+"mar466","pten","Prometíamos ao papai telefonar-lhe todas as segundas.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to promise|would promise",,"promised"
+"mar467","pten","Tu o amavas como dizias?","verb tense/aspect/mood","indicativo pretérito imperfeito",,"(use to love|love).*(used to say|would say)",,"as you say|as you said"
+"mar468","pten","Ela entendia o que eu lhe sentia.","verb tense/aspect/mood","indicativo pretérito imperfeito","She understood my feelings.","used to understand.*felt|understood.*used to feel|understood.*felt",,
+"mar469","pten","Não se preocupavam comigo.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"They did(n't| not) (care|worry)|They were not concerned",,"You"
+"mar470","pten","Com um ano de idade já conseguia andar.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"could|managed|was able to",,
+"mar471","pten","Eu não sabia o que se passava entre as quatro paredes daquele quarto.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"did(n't| not) know",,
+"mar472","pten","Ela sempre buscava o seu melhor.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to search|would search|was.*looking",,
+"mar473","pten","Insistia até a minha mãe concordar comigo.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to insist|would insist",,"insisted"
+"mar474","pten","Raramente fazia uma festa surpresa no aniversário dele.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to (have|throw)|would.*(have|throw)",,"I rarely throw|threw"
+"mar475","pten","Você escrevia roteiros de longa-metragem e seriados de TV. ","verb tense/aspect/mood","indicativo pretérito imperfeito",,"you (used to write|would write)",,"You write|wrote"
+"mar476","pten","Ele me fazia tudo exatamente como pedia.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to do.*asked|would do.*asked",,"did"
+"mar477","pten","Você era uma incógnita para mim. ","verb tense/aspect/mood","indicativo pretérito imperfeito",,"were|used to be",,
+"mar478","pten","Ele dormia até tarde aos domingos.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"used to sleep|would sleep",,"slept"
+"mar479","pten","Ela continuava tristíssima.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"continued to be|was still",,
+"mar480","pten","Tudo o que era dele, chegava-lhe.","verb tense/aspect/mood","indicativo pretérito imperfeito",,"was.*(reached|came|was enough)|used to be.*(reached|came|was enough)|belonged.*(came|reached)",,
+"mar481","pten","Ele comprara apenas o necessário para cada dia.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had bought",,
+"mar482","pten","Tu falaras em meu nome.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had spoken",,"speak"
+"mar483","pten","Somente os pais do ano passado conheceram a nova diretora.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had met|met",,
+"mar484","pten","Vós não quiséreis mal a ninguém.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had(n't| not) (wanted|meant)|You mean",,
+"mar485","pten","Mesmo exausta, ela cuidara daquele paciente na UTI.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had (cared|taken care)",,
+"mar486","pten","Prometêramos ao papai telefonar-lhe todas as segundas.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"We had promised",,
+"mar487","pten","Tu o amara verdadeiramente?","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"Had.*loved|Did.*love",,
+"mar488","pten","Ela entendera o que eu lhe dissera.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had understood.*had said",,
+"mar489","pten","Não se preocuparam comigo.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had(n't| not) woried|were(n't| not) concerned",,
+"mar490","pten","Finalmente conseguira a desejada promoção.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"(had )?achieved",,"achieve"
+"mar491","pten","Eu não quisera saber o que se passara entre as quatro paredes daquele quarto.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"(had(n't| not) wanted|would(n't| not) have wanted)",,
+"mar492","pten","Ela sempre buscara o seu melhor.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had.*(sought|searched)",,
+"mar493","pten","Insistira até a minha mãe concordar comigo.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"I had insisted",,
+"mar494","pten","Ele fizera uma festa no aniversário dela.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had( had)?",,
+"mar495","pten","Você escrevera roteiros de londa-metragem e seriados de TV quando morara em L.A.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had written|had lived",,
+"mar496","pten","Ele fizera tudo exatamente como lhe pedira.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had done.*had asked",,
+"mar497","pten","Você fora uma incognita para mim por muitos anos.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had been|were",,"have been"
+"mar498","pten","Ele dormira até tarde no domingo.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had slept",,
+"mar499","pten","Ela estivera tristíssima por meses.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had been",,
+"mar500","pten","Tudo o que fora dele, chegara-lhe.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito",,"had been.*had reached",,"out"
+"mar501","pten","Tinha comprado apenas o necessário para cada dia.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had bought",,
+"mar502","pten","Tu tinhas falado em meu nome.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"You had spoken",,
+"mar503","pten","Somente os pais do ano passado tinham conhecido a nova diretora.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had met",,
+"mar504","pten","Vós não tínheis querido mal a ninguém.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"You had(n't| not meant)|You have meant",,
+"mar505","pten","Mesmo exausta, ela tinha cuidado daquele paciente na UTI.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had cared|had taken care",,
+"mar506","pten","Havíamos prometido ao papai telefonar-lhe todas as segundas.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had promised",,
+"mar507","pten","Tu o tinhas amado verdadeiramente?","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"Had.*loved|Did.*love",,
+"mar508","pten","Ela havia entendido o que eu lhe dissera.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had understood.*had said",,
+"mar509","pten","Não haviam se preocupado comigo.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"They had(n't| not) (worried|concerned)",,
+"mar510","pten","Finalmente tinham conseguido a desejada promoção.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"they had (managed|acquired|achieved)",,
+"mar511","pten","Nunca tinham sabido o que se passara entre as quatro paredes daquele quarto.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"They (had never|hadn't ever) known",,
+"mar512","pten","Sempre tinha buscado o seu melhor.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had.*(searched|sought)",,
+"mar513","pten","Havia insistido até a minha mãe concordar comigo.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had insisted",,
+"mar514","pten","Tinha feito uma festa no aniversário dele.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had (had|organized)|had a party",,
+"mar515","pten","Você tinha escrito roteiros de longa-metragem e seriados de TV quando morara em L.A.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had written",,
+"mar516","pten","Ele tinha feito tudo.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had done",,
+"mar517","pten","Você tinha sido uma incognita para mim por muitos anos.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had been",,
+"mar518","pten","Ele tinha dormido até tarde no domingo.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had slept",,
+"mar519","pten","Ela tinha estado tristíssima por meses.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had been",,
+"mar520","pten","Tudo o que tinha sido dele, chegara-lhe.","verb tense/aspect/mood","indicativo pretérito mais-que-perfeito composto",,"had been",,
+"mar521","pten","A cozinheira fez o jantar para a nossa chegada.","verb tense/aspect/mood","indicativo pretérito perfeito",,"made|prepared",,
+"mar522","pten","Você compreendeu toda a minha indignação ao ouvir os boatos.","verb tense/aspect/mood","indicativo pretérito perfeito",,"understood",,
+"mar523","pten","Quem ganhou a Copa Libertadores?","verb tense/aspect/mood","indicativo pretérito perfeito",,"won",,
+"mar524","pten","Tiveste tempo suficiente para fazeres a pesquisa.","verb tense/aspect/mood","indicativo pretérito perfeito",,"had",,
+"mar525","pten","Usaste corretamente o programa.","verb tense/aspect/mood","indicativo pretérito perfeito",,"used",,
+"mar526","pten","Fizeram grandes progressos na descoberta do vírus.","verb tense/aspect/mood","indicativo pretérito perfeito",,"made",,
+"mar527","pten","Nunca provaste tantas iguarias em uma única refeição.","verb tense/aspect/mood","indicativo pretérito perfeito",,"tried|tasted",,
+"mar528","pten","Fez muitos amigos estrangeiros quando morou no exterior.","verb tense/aspect/mood","indicativo pretérito perfeito",,"made",,
+"mar529","pten","Realizei meu sonho de visitar Berlim.                      ","verb tense/aspect/mood","indicativo pretérito perfeito",,"fulfilled",,
+"mar530","pten","Praticastes o Bem ao ajudar o vosso próximo.                 ","verb tense/aspect/mood","indicativo pretérito perfeito",,"You did|You have done",,
+"mar531","pten","Magoaste profundamente o teu irmão ao revelar-lhe a tua falta.","verb tense/aspect/mood","indicativo pretérito perfeito",,"upset|hurt",,
+"mar532","pten","O presidente intercedeu pelo filho junto à diretoria do clube de golfe.","verb tense/aspect/mood","indicativo pretérito perfeito",,"interceded",,
+"mar533","pten","Conforme combinado, os seguranças acessaram o refeitório quando o agente da Saúde Pública chegou.  ","verb tense/aspect/mood","indicativo pretérito perfeito",,"accessed|entered",,
+"mar534","pten","Ela soube como seduzi-lo.","verb tense/aspect/mood","indicativo pretérito perfeito",,"knew",,
+"mar535","pten","Poupou 55 mil reais para comprar um carro.","verb tense/aspect/mood","indicativo pretérito perfeito",,"saved",,
+"mar536","pten","Viveram muitos momentos felizes ao longo de seus 30 anos de casados.","verb tense/aspect/mood","indicativo pretérito perfeito",,"lived",,
+"mar537","pten","Rafael completou o serviço, apesar da chuva.","verb tense/aspect/mood","indicativo pretérito perfeito",,"completed",,
+"mar538","pten","Deixaram muitas saudades ao partirem.","verb tense/aspect/mood","indicativo pretérito perfeito",,"left",,
+"mar539","pten","Utilizamos todos os argumentos possíveis para demovê-lo da compra da casa da vovó.","verb tense/aspect/mood","indicativo pretérito perfeito",,"used",,"use all"
+"mar540","pten","Eles auxiliaram-me sem delongas.","verb tense/aspect/mood","indicativo pretérito perfeito",,"helped",,
+"mar541","pten","A cozinheira tem feito o jantar todos os dias.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"has made|has been (making|cooking|preparing)",,
+"mar542","pten","Você tem compreendido toda a minha indignação ao ouvir os boatos?","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"Have.*understood",,
+"mar543","pten","Quem tem ganhado a Copa Libertadores nos últimos 4 anos?","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"has won",,
+"mar544","pten","Tens tido tempo suficiente para fazeres a pesquisa, portanto podes aproveitar o fim de semana.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have had",,
+"mar545","pten","Tens usado corretamente o programa, porque o computador baixou o PDF.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have been using",,
+"mar546","pten","Os laboratórios nacionais têm feito grandes progressos na descoberta do vírus.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have made",,
+"mar547","pten","Tens provado requintadas iguarias em uma única refeição.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have tried|have tasted",,
+"mar548","pten","Tem feito muitos amigos estrangeiros por ter morado no exterior.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have made",,
+"mar549","pten","Tenho realizado o meu sonho de trabalhar em Berlim.                                                        ","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have fulfilled",,
+"mar550","pten","Tendes praticado o Bem ao ajudar o vosso próximo.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have done|have practiced",,
+"mar551","pten","Tens magoado profundamente o teu irmão.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have.*(hurt|upset)",,
+"mar552","pten","O presidente tem intercedido pelo filho junto à diretoria do clube de golfe.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"has interceded|has been interceding",,
+"mar553","pten","Os seguranças têm acessado o refeitório.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have accessed|have been accessing",,
+"mar554","pten","Ela sempre tem encontrado alguma forma de seduzi-lo.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"has.*found",,
+"mar555","pten","Tenho poupado 55 mil reais desde dezembro para a compra de um carro.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have saved|have been saving",,
+"mar556","pten","Eles têm vivido muitos momentos felizes ao longo de seus 30 anos de casados.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have (had|lived|experienced)",,
+"mar557","pten","Rafael há completado o serviço antes do prazo.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"has completed",,
+"mar558","pten","Eles têm deixado muitas saudades desde que partiram.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have left",,
+"mar559","pten","Ela tem utilizado todos os argumentos possíveis para demovê-lo da compra da casa da avó.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"has used",,
+"mar560","pten","Eles têm-me auxiliado sem delongas e sem exigências.","verb tense/aspect/mood","indicativo pretérito perfeito composto",,"have (helped|aided|assisted)",,
+"mar561","pten","Tomara que ele compre o necessário para hoje.","verb tense/aspect/mood","subjuntivo presente",,"buys",,
+"mar562","pten","Eu te agradeço que fales em meu nome.","verb tense/aspect/mood","subjuntivo presente",,"speak",,
+"mar563","pten","Acredito que somente os pais do ano passado conheçam a nova diretora. ","verb tense/aspect/mood","subjuntivo presente",,"know",,
+"mar564","pten","A máxima diz que vós não façais mal a ninguém.","verb tense/aspect/mood","subjuntivo presente",,"should(n't| not) do harm|that you harm",,
+"mar565","pten","Mesmo exausta, precisamos que ela cuide bem daquele paciente na UTI.","verb tense/aspect/mood","subjuntivo presente",,"care|take care",,
+"mar566","pten","Papai espera que lhe telefonemos ainda nesta semana.","verb tense/aspect/mood","subjuntivo presente",,"call",,
+"mar567","pten","Jesus deseja que tu ames o teu próximo como a ti mesmo.","verb tense/aspect/mood","subjuntivo presente",,"love",,
+"mar568","pten","Espero que tu entendas o que te digo.","verb tense/aspect/mood","subjuntivo presente",,"understand",,
+"mar569","pten","Suplico-lhes que não se preocupem comigo.","verb tense/aspect/mood","subjuntivo presente",,"do(n't| not) worry|not to worry",,
+"mar570","pten","Espero que consiga a desejada promoção.","verb tense/aspect/mood","subjuntivo presente",,"manage|get",,
+"mar571","pten","Imagino que nunca saibam o que se passa entre as quatro paredes daquele quarto.","verb tense/aspect/mood","subjuntivo presente",,"(will never|won't ever) know",,"you never"
+"mar572","pten","Que eu busque ser feliz sempre!","verb tense/aspect/mood","subjuntivo presente",,"May.*(aim|seek)",,
+"mar573","pten","Insiste até que a sua mãe concorde com ele.","verb tense/aspect/mood","subjuntivo presente",,"agrees",,
+"mar574","pten","Torço para que ela organize uma festa surpresa no dia do aniversário dele.","verb tense/aspect/mood","subjuntivo presente",,"she organizes|will organize",,
+"mar575","pten","Ela lhe exige que me diga que a ama.","verb tense/aspect/mood","subjuntivo presente",,"tell.*love",,
+"mar576","pten","Por fineza, peço-lhe que faça exatamente como combinado.","verb tense/aspect/mood","subjuntivo presente",,"do",,
+"mar577","pten","Que você nunca seja uma incógnita para mim!","verb tense/aspect/mood","subjuntivo presente",,"May.*be",,
+"mar578","pten","É compreensível que ele durma até tarde nos domingos.","verb tense/aspect/mood","subjuntivo presente",,"sleeps",,
+"mar579","pten","Lamento que ela continue tristíssima.","verb tense/aspect/mood","subjuntivo presente",,"continues",,
+"mar580","pten","Espero que vocês estejam com saúde.","verb tense/aspect/mood","subjuntivo presente",,"are",,
+"mar581","pten","Caso saísse mais cedo do trabalho, compraria o necessário para o jantar.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"left",,
+"mar582","pten","Se falasses em meu nome, eu te agradeceria.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"would speak|were to speak",,
+"mar583","pten","Se os pais fossem à escola conheceriam a nova diretora.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"went",,
+"mar584","pten","Ainda que desconhecesséis a máxima, não faríeis mal a ninguém.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"did(n't| not) know|were unaware",,
+"mar585","pten","Ainda que estivesse exausta, ela cuidaria bem daquele paciente na UTI.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"were",,"was"
+"mar586","pten","O papai esperaria, se lhe telefonássemos ainda esta semana.   ","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"called",,
+"mar587","pten","Se aceitasses a Jesus, amarias o teu próximo como a ti mesmo.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"accepted",,
+"mar588","pten","Se você me conhecesse melhor, entenderia o que lhe digo.    ","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"knew",,
+"mar589","pten","Não me ouviriam, ainda que lhes suplicasse.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"begged",,
+"mar590","pten","Se trabalhasse duro, conseguiria a desejada promoção.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"worked",,
+"mar591","pten","Se fossem da família, saberiam o que se passa entre aquelas quatro paredes.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"were",,
+"mar592","pten","Ainda que eu já fosse um bom atleta, daria sempre o meu melhor.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"were",,"was"
+"mar593","pten","Minha mãe concordaria comigo, caso eu insistisse um pouco mais.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"insisted|were to insist",,
+"mar594","pten","Ele ficaria feliz, se eu fizesse uma festa surpresa no aniversário dele.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"(organized|threw)|were to (organize|throw)",,
+"mar595","pten","Embora não me exigisse, eu lhe diria que a amo.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"did(n't| not) demand|were(n't not) to demand|would(n't| not) have demanded",,"would(n't| not) demand"
+"mar596","pten","Caso me pedisse, eu faria exatamente como combinado.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"asked",,
+"mar597","pten","Se não fôssemos sócios, você seria uma incógnita para mim.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"weren't|were not",,
+"mar598","pten","Se a esposa permitisse, ele dormiria até tarde nos domingos.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"(allowed|permitted)|were to (allow|permit)",,"would allow"
+"mar599","pten","Lamentaríamos profundamente, se ela continuasse tristíssima.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"continued|were to continue",,
+"mar600","pten","Tudo chegaria até você, se você fosse merecedor.","verb tense/aspect/mood","subjuntivo pretérito imperfeito",,"were",,
+"mar601","pten","Abram a porta, por favor.","verb tense/aspect/mood","afirmative imperative",,"Open",,
+"mar602","pten","Dirije com atenção.","verb tense/aspect/mood","afirmative imperative",,"Drive",,
+"mar603","pten","Quando máscaras de oxigênio caírem à sua frente, puxe a mais próxima, coloque-a sobre o nariz e a boca e  respire normalmente.","verb tense/aspect/mood","afirmative imperative",,"pull.*place.*breathe",,
+"mar604","pten","Contribui para a campanha do agasalho.","verb tense/aspect/mood","afirmative imperative",,"Contribute",,
+"mar605","pten","Clica aqui!","verb tense/aspect/mood","afirmative imperative",,"Click",,
+"mar606","pten","Me esqueça.","verb tense/aspect/mood","afirmative imperative",,"Forget me",,"forget"
+"mar607","pten","Celebrem, vocês passaram no vestibular.","verb tense/aspect/mood","afirmative imperative",,"Celebrate",,
+"mar608","pten","Está tarde, vá dormir.","verb tense/aspect/mood","afirmative imperative",,"go",,
+"mar609","pten","Levante-se e tome um café forte.","verb tense/aspect/mood","afirmative imperative",,"(Get up|Stand|Rise).*(drink|have)",,
+"mar610","pten","Deixe de lamentações e converse com ele.","verb tense/aspect/mood","afirmative imperative",,"Stop.*(speak|talk)",,
+"mar611","pten","Desculpa-me, eu te imploro.","verb tense/aspect/mood","afirmative imperative",,"Forgive|Excuse",,
+"mar612","pten","Por gentileza , diga-me onde fica a farmácia mais próxima.","verb tense/aspect/mood","afirmative imperative",,"tell",,
+"mar613","pten","Compartilhe esse vídeo com seus contatos.","verb tense/aspect/mood","afirmative imperative",,"Share",,
+"mar614","pten","Coma mais devagar.","verb tense/aspect/mood","afirmative imperative",,"Eat",,
+"mar615","pten","Refaça-se e volte ao trabalho.","verb tense/aspect/mood","afirmative imperative",,"(Pull yourself together|Compose yourself|Get over it).*(get back|return)",,
+"mar616","pten","Contai sempre comigo.","verb tense/aspect/mood","afirmative imperative",,"Count|count",,
+"mar617","pten","Seja sempre positivo.","verb tense/aspect/mood","afirmative imperative",,"Be|be",,
+"mar618","pten","Conhece-te a ti mesmo, advertia o Templo de Apolo.","verb tense/aspect/mood","afirmative imperative",,"Know",,
+"mar619","pten","Acessem o meu site e deixem a sua curtida.","verb tense/aspect/mood","afirmative imperative",,"(Access|Go to).*leave",,
+"mar620","pten","Acredita nos teus sonhos e eles se farão realidade.","verb tense/aspect/mood","afirmative imperative",,"Believe",,
+"mar621","pten","Não abram a porta, por favor.","verb tense/aspect/mood","negative imperative",,"Don't open|Do not open|don't open|do not open",,
+"mar622","pten","Se fores dirigir, não bebas.","verb tense/aspect/mood","negative imperative",,"don't drink|do not drink",,
+"mar623","pten","Na dúvida, não ultrapasse.","verb tense/aspect/mood","negative imperative",,"do(n't| not) (overtake|go beyond|go over)",,
+"mar624","pten","Não contribua para a campanha do agasalho.","verb tense/aspect/mood","negative imperative",,"Don't contribute|Do not contribute",,
+"mar625","pten","Não cliques aqui!","verb tense/aspect/mood","negative imperative",,"Don't click|Do not click",,
+"mar626","pten","Não desapareça daqui.","verb tense/aspect/mood","negative imperative",,"Do(n't| not) (disappear|go away)",,
+"mar627","pten","Não celebrem, pois vocês não passaram no vestibular. ","verb tense/aspect/mood","negative imperative",,"Don't celebrate|Do not celebrate",,
+"mar628","pten","Está cedo, não durmas ainda.","verb tense/aspect/mood","negative imperative",,"don't sleep|do not sleep",,
+"mar629","pten","Não se levante e não tome café forte até o médico chegar.","verb tense/aspect/mood","negative imperative",,"Do(n't| not) (get up|stand up|rise).*do(n't| not) (drink|have)",,
+"mar630","pten","Não se lamente.","verb tense/aspect/mood","negative imperative",,"Do(n't| not) (regret|complain|lament|be sorry)",,
+"mar631","pten","Não te desculpes, eu te imploro.","verb tense/aspect/mood","negative imperative",,"Don't apologize|Do not apologize",,
+"mar632","pten","Por gentileza, não me revele o final do filme.","verb tense/aspect/mood","negative imperative",,"don't reveal|do not reveal",,
+"mar633","pten","Não compartilhe esse vídeo com os seus contactos.","verb tense/aspect/mood","negative imperative",,"Don't share|Do not share",,
+"mar634","pten","Não comas muito depressa.","verb tense/aspect/mood","negative imperative",,"Don't eat|Do not eat",,
+"mar635","pten","Não se atormente e volte ao trabalho.","verb tense/aspect/mood","negative imperative",,"Do(n't| not) torment.*(return|get back)",,
+"mar636","pten","Não conteis comigo.","verb tense/aspect/mood","negative imperative",,"Don't count|Do not count",,
+"mar637","pten","Não seja pessimista.","verb tense/aspect/mood","negative imperative",,"Don't be|Do not be",,
+"mar638","pten","Não te enganes, nem tudo que reluz é ouro.","verb tense/aspect/mood","negative imperative",,"Do(n't| not) deceive|Make no mistake",,
+"mar639","pten","Não acessem o meu site.","verb tense/aspect/mood","negative imperative",,"Don't access|Do not access",,
+"mar640","pten","Não abdiques do trono.  ","verb tense/aspect/mood","negative imperative",,"Do(n't| not) (abdicate|give up)",,
+"mar641","pten","Nunca a esquecerei.","pronouns","próclise",,"forget her",,"it|him"
+"mar642","pten","Cumpriremos o acordo,embora nos prejudique.","pronouns","próclise",,"detrimental to us|(impairs|hurt) us",,
+"mar643","pten","Esta é a igreja onde te casaste.","pronouns","próclise",,"you married|you got married",,
+"mar644","pten","Todos me saudaram ao chegar.","pronouns","próclise",,"greeted me",,
+"mar645","pten","Isto o deixou muito feliz.","pronouns","próclise",,"left him|made him",,
+"mar646","pten","Quem vos chama?","pronouns","próclise",,"call(ing|s) you",,
+"mar647","pten","Deus te abençõe.","pronouns","próclise",,"bless you",,
+"mar648","pten","Os vi passeando ontem.","pronouns","próclise",,"saw them",,"you"
+"mar649","pten","Sempre os hospedo em minha casa.","pronouns","próclise",,"host them",,
+"mar650","pten","Fiquei chocado ao saber  que ninguém lhe contara a verdade.","pronouns","próclise",,"told (you|him|her)",,
+"mar651","pten","Ele a convidou para dançar, embora a achesse tímida.","pronouns","próclise",,"(asked|invited) her",,
+"mar652","pten","Há pessoas que nos agradam desde o primeiro encontro.","pronouns","próclise","There are people we like from the first meeting.","please us",,
+"mar653","pten","Muito poucos me visitaram no hospital.","pronouns","próclise",,"visited me",,
+"mar654","pten","Aquilo nos deixou abalados.","pronouns","próclise",,"left us",,
+"mar655","pten","Estarás pronta quando te chamarem?","pronouns","próclise",,"call you",,
+"mar656","pten","Como me emocionei ao revê-lo.","pronouns","próclise",,"I got emotional|I was moved",,
+"mar657","pten","Eu os conheci na festa da minha irmã.","pronouns","próclise",,"met them",,
+"mar658","pten","Muito poucos se lembraram do meu aniversário.","pronouns","próclise",,"remember",,
+"mar659","pten","Ele é quem me põe a par das novidades.","pronouns","próclise",,"(brings|puts) me",,
+"mar660","pten"," Hoje o vi caminhando na praia.","pronouns","próclise",,"saw him",,"it"
+"mar661","pten","Lembrar-me-ei dela eternamente.","pronouns","mesóclise",,"I will remember",,
+"mar662","pten","Embora o acordo nos prejudique, cumpri-lo-emos.","pronouns","mesóclise",,"we will (fulfill|abide)",,
+"mar663","pten","Casar-te-ás nesta igreja.","pronouns","mesóclise",,"You will (marry|get married)",,
+"mar664","pten","Saudá-los-iam na chegada.","pronouns","mesóclise",,"They would greet them",,"it"
+"mar665","pten","Uma promoção deixá-lo-ia muito feliz.","pronouns","mesóclise",,"would (make|leave) him",,
+"mar666","pten","Após a homilia, chamar-vos-ia para receber o sacramento do batismo.","pronouns","mesóclise",,"would call you",,
+"mar667","pten","Pode ir em paz meu filho, abençoá-lo-ei agora.  ","pronouns","mesóclise",,"I will bless you",,
+"mar668","pten","Tratar-te-ão com todo o respeito e carinho que mereces.","pronouns","mesóclise",,"They will treat you",,
+"mar669","pten","Hospedá-los-ei em minha casa, como de costume.","pronouns","mesóclise",,"I will host (you|them)",,
+"mar670","pten","Contar-lhe-ei a verdade no momento oportuno.","pronouns","mesóclise",,"I will tell (you|him|her)",,
+"mar671","pten","Convidá-la-ei para dançar, embora a ache tímida.","pronouns","mesóclise",,"I will (ask|invite) her",,
+"mar672","pten","Agradar-te-ia desde o primeiro encontro, se me permitisse.","pronouns","mesóclise",,"would please you",,
+"mar673","pten","Esquecer-se-ão do meu aniversário, porque cairá em dia feriado.","pronouns","mesóclise",,"(They|You) will forget",,
+"mar674","pten","Abalar-nos-ia a notícia, caso não tivéssemos descoberto que era fake news.","pronouns","mesóclise",,"would (affect|shake).*us",,
+"mar675","pten","Chamar-te-ão em breve.","pronouns","mesóclise",,"They will call you|You will be called",,
+"mar676","pten","Emocionar-me-ei todas as vezes que o vir.","pronouns","mesóclise",,"I will get emotional",,
+"mar677","pten","Chegar-lhe-á uma encomenda de Paris.","pronouns","mesóclise",,"will arrive for you|You will (get|receive)",,
+"mar678","pten","Realizar-se-á uma grande recepção na Embaixada.","pronouns","mesóclise",,"There will be|will be held",,
+"mar679","pten","Dir-me-ias o que se passa no escritório?","pronouns","mesóclise",,"Would you tell me",,
+"mar680","pten","Enviar-lhe-ei os documentos, se me prometeres lê-los.","pronouns","mesóclise",,"I will send you",,
+"mar681","pten","Preciso lembrá-lo de buscar o carro na oficina.","pronouns","ênclise",,"remind (him|you)",,
+"mar682","pten","Prejudicou-nos involuntariamente.","pronouns","ênclise",,"(She|He) (has )?.*(harmed|impaired) us",,
+"mar683","pten","Casaram-se nesta igreja.","pronouns","ênclise",,"They (got )?married",,
+"mar684","pten","Saudou-o na chegada.","pronouns","ênclise",,"(He|She|You) greeted him",,
+"mar685","pten","Promoveram-na para a pleiteada chefia.","pronouns","ênclise",,"They (have )?promoted her",,"it"
+"mar686","pten","Chamei-vos para que recebais o sacramento do batismo.","pronouns","ênclise",,"I (have )?called you",,
+"mar687","pten","Valha-me Deus!","pronouns","ênclise",,"Help me|Goodness gracious",,
+"mar688","pten","Trataram-na com respeito e cortesia.","pronouns","ênclise",,"They treated her",,
+"mar689","pten","Recebi-os, como de costume.","pronouns","ênclise",,"I received them",,
+"mar690","pten","Contou-nos a verdade no momento oportuno.","pronouns","ênclise",,"(He|She) told us",,
+"mar691","pten","Convidou-a para dançar, embora a achasse tímida.","pronouns","ênclise",,"(He|She) (asked|invited) her",,
+"mar692","pten","Agradaste-me desde o primeiro encontro.","pronouns","ênclise",,"You pleased me|I was pleased",,
+"mar693","pten","Esqueceram-se do meu aniversário.","pronouns","ênclise",,"They forgot",,
+"mar694","pten","Abalou-nos a notícia da sua partida.","pronouns","ênclise",,"shook us|We were shaken",,
+"mar695","pten","Apressa-te.","pronouns","ênclise",,"Hurry",,
+"mar696","pten","Emociono-me todas as vezes que o vejo.","pronouns","ênclise",,"I get emotional",,
+"mar697","pten","Chegou-lhe uma encomenda de Paris.","pronouns","ênclise",,"arrived for you",,
+"mar698","pten","Realizou-se uma grande recepção na Embaixada.","pronouns","ênclise",,"was held",,
+"mar699","pten","Diz-me o que se passa no escritório.","pronouns","ênclise",,"Tell me",,
+"mar700","pten","Enviei-lhe os documentos.","pronouns","ênclise",,"I (have )?sent (you|him|her)",,
+"mar701","pten","Você fez biscoitos de polvilho? Fiz.","ldd & interrogatives","direct object omissions & polar questions",,"I did|Yes",,
+"mar702","pten","A bibliotecária leu toda a coleção de Machado de Assis? Leu.","ldd & interrogatives","direct object omissions & polar questions",,"She did|Yes",,
+"mar703","pten","Meu irmão comprará um carro novo? Comprará.","ldd & interrogatives","direct object omissions & polar questions",,"He will|Yes",,
+"mar704","pten","Eles perderam o voo? Perderam.","ldd & interrogatives","direct object omissions & polar questions",,"They did|Yes",,"missed"
+"mar705","pten","O calor excessivo estragou a comida? Estragou.","ldd & interrogatives","direct object omissions & polar questions",,"It did|Yes|It has",,
+"mar706","pten","Derrubaste o café no colo? Derrubei.","ldd & interrogatives","direct object omissions & polar questions",,"I did|Yes",,
+"mar707","pten","O filme mostra cenas de violência? Mostra.","ldd & interrogatives","direct object omissions & polar questions",,"It does|Yes",,
+"mar708","pten","Eles terminaram o namoro? Terminaram.","ldd & interrogatives","direct object omissions & polar questions",,"They did|Yes",,
+"mar709","pten","A bicicleta atropelou o cachorro? Atropelou.","ldd & interrogatives","direct object omissions & polar questions",,"It did|Yes",,
+"mar710","pten","Ela achou o celular? Achou.","ldd & interrogatives","direct object omissions & polar questions",,"He did|Yes",,
+"mar711","pten","Você cortou o cabelo? Cortei.","ldd & interrogatives","direct object omissions & polar questions",,"I did|Yes",,
+"mar712","pten","O diretor desfez o cenário? Desfez.","ldd & interrogatives","direct object omissions & polar questions",,"He did|Yes",,
+"mar713","pten","O pedreiro destruiu o muro? Destruiu.","ldd & interrogatives","direct object omissions & polar questions",,"He did|Yes",,
+"mar714","pten","João montou sua própria empresa? Montou.","ldd & interrogatives","direct object omissions & polar questions",,"He did|Yes",,
+"mar715","pten","Luíza come sempre salada no almoço? Come.","ldd & interrogatives","direct object omissions & polar questions",,"She does|Yes",,
+"mar716","pten","Aurélio ouve boa música? Ouve.","ldd & interrogatives","direct object omissions & polar questions",,"He does|Yes",,
+"mar717","pten","Neide fala Inglês? Fala.","ldd & interrogatives","direct object omissions & polar questions",,"She does|Yes",,
+"mar718","pten","A professora ensina a norma culta da Língua? Ensina.","ldd & interrogatives","direct object omissions & polar questions",,"She does|Yes",,
+"mar719","pten","O paciente sente enjoo? Sente.","ldd & interrogatives","direct object omissions & polar questions",,"He does|Yes",,
+"mar720","pten","Denise abrirá uma garrafa de espumante? Abrirá.","ldd & interrogatives","direct object omissions & polar questions",,"She will|Yes",,
+"mar721","pten","Você fez biscoitos de polvilho e eu também fiz.","coordination & ellipsis","null object",,"I did(,)? too|so did I",,
+"mar722","pten","A bibliotecária leu toda a coleção de Machado de Assis e a sua assistente também leu.","coordination & ellipsis","null object",,"as did her assistant|so has her assistant",,
+"mar723","pten","Meu irmão comprará um carro e eu também comprarei.","coordination & ellipsis","null object",,"I will(,)? too|so will I",,
+"mar724","pten","Recebi uma flor da professora e dei para a minha mãe.","coordination & ellipsis","null object",,"gave it",,
+"mar725","pten","Eles terminaram o namoro e reataram depois.","coordination & ellipsis","null object","They broke up and then got back together again.","restarted it later",,
+"mar726","pten","A criança ganhou um brinquedo e jogou no chão logo em seguida.","coordination & ellipsis","null object",,"threw it",,
+"mar727","pten","Neide fala Inglês, mas o seu neto não fala.","coordination & ellipsis","null object",,"her grandson (doesn't|does not)",,
+"mar728","pten","Quando o menino viu a sua irmã dando chilique, ele também deu.","coordination & ellipsis","null object",,"he did,? too",,
+"mar729","pten","Minha mãe viajará aos Estados Unidos e eu também viajarei.","coordination & ellipsis","null object",,"I will,? too|so will I",,
+"mar730","pten","O jóvem quebrou a mesa e o seu pai concertou.","coordination & ellipsis","null object",,"fixed it",,
+"mar731","pten","Assim que eu quis ir pra festa, minha irmã mais nova também quis.","coordination & ellipsis","null object",,"did,? too",,
+"mar732","pten","No salão de beleza, a Maria corta os cabelos das clientes e a Joana seca.","coordination & ellipsis","null object",,"them|it",,
+"mar733","pten","Eu tirei os pratos da máquina e ele guardou na prateleira.","coordination & ellipsis","null object",,"put them",,
+"mar734","pten","Quando eu encostei a mão no veludo, minha mãe também encostou.","coordination & ellipsis","null object",,"did,? too",,
+"mar735","pten","Depois de eu tomar banho, meu irmão tomou.","coordination & ellipsis","null object",,"did",,
+"mar736","pten","Eu escrevi a carta, mas foi o meu namorado que enviou.","coordination & ellipsis","null object",,"sent it",,
+"mar737","pten","Eu preparei a comida, mas foi o meu pai que comprou.","coordination & ellipsis","null object",,"bought it",,
+"mar738","pten","Um artista desenhou o personagem e o outro coloriu.","coordination & ellipsis","null object",,"colored it",,
+"mar739","pten","Eu lavei a louça para o meu irmão secar.","coordination & ellipsis","null object",,"for my brother to dry",,
+"mar740","pten","Quando eu era pequena, eu vendia balas, porque a minha amiga também vendia.","coordination & ellipsis","null object",,"did,? too",,
+"mar741","pten","Ele agradeceu a consideração dos colegas.","verb tense/aspect/mood","ditransitive",,"the consideration of (his|the) colleagues|his colleagues for their consideration",,
+"mar742","pten","Atribuíram-lhe o título de Doutor Honoris Causa.","verb tense/aspect/mood","ditransitive",,"(him|her|you) the title",,
+"mar743","pten","O diretor anunciou sua exoneração ao colegiado.","verb tense/aspect/mood","ditransitive",,"his resignation to the collegiate",,
+"mar744","pten","Concede-me a honra da dança?","verb tense/aspect/mood","ditransitive",,"me the honour|May I have the honor",,
+"mar745","pten","O coronel confiou a difícil missão ao jovem soldado.","verb tense/aspect/mood","ditransitive",,"the difficult mission to the young soldier",,
+"mar746","pten","Os pais devem dar bons exemplos aos seus filhos.","verb tense/aspect/mood","ditransitive",,"good examples.*their (children|kids)",,
+"mar747","pten","Dedicou toda sua vida à pesquisa.","verb tense/aspect/mood","ditransitive",,"(his|her) (whole|entire) life to research",,
+"mar748","pten","O médico disse a verdade para o paciente.","verb tense/aspect/mood","ditransitive",,"the truth to the patient",,
+"mar749","pten","Doaram muitos presentes às crianças carentes no Natal.","verb tense/aspect/mood","ditransitive",,"many (gifts|presents).*(children|kids)",,
+"mar750","pten","Entreguei-lhes os documentos solicitados.","verb tense/aspect/mood","ditransitive",,"(you|them) the requested documents",,
+"mar751","pten","Exporá seus quadros ao público na Galeria Nacional.","verb tense/aspect/mood","ditransitive",,"(his|her|your|its) paintings to the public",,
+"mar752","pten","Extorquiu o dinheiro do seu sócio.","verb tense/aspect/mood","ditransitive",,"money.*partner",,
+"mar753","pten","Sempre louvo as iniciativas de meus funcionários.","verb tense/aspect/mood","ditransitive",,"the initiatives of my (workers|employees|officials)",,
+"mar754","pten","Mostrarei o meu novo livro para o editor.","verb tense/aspect/mood","ditransitive",,"my new book to the (editor|publisher)",,
+"mar755","pten","Apresentou as condolências aos familiares.","verb tense/aspect/mood","ditransitive",,"condolences to the family",,
+"mar756","pten","Emprestei a coleção à minha colega.","verb tense/aspect/mood","ditransitive",,"the collection to my colleague",,
+"mar757","pten","Informei as datas dos exames ontem.","verb tense/aspect/mood","ditransitive",,"dates of the exams|examination dates",,
+"mar758","pten","O menino ofereceu ajuda à senhora.","verb tense/aspect/mood","ditransitive",,"help.*(lady|woman)",,
+"mar759","pten","Aconselhou os netos para comportamentos adequados.","verb tense/aspect/mood","ditransitive",,"grandchildren.*(appropriate|adequate) behaviors?",,
+"mar760","pten","Informou o ocorrido às autoridades.","verb tense/aspect/mood","ditransitive",,"(this|it|the occurances) to the authorities",,
+"mar761","pten","Os astros ficam mais belos em noites sem lua.","ambiguity","lexical ambiguity",,"planets|stars",,
+"mar762","pten","Ele é um astro brasileiro.","ambiguity","lexical ambiguity",,"celebrity|star",,
+"mar763","pten","A bala é deliciosa.","ambiguity","lexical ambiguity",,"candy",,"bullet"
+"mar764","pten","A velocidade da bala foi de 100 km/h.","ambiguity","lexical ambiguity",,"bullet",,
+"mar765","pten","A minha coluna está doendo.","ambiguity","lexical ambiguity",,"back|spine",,
+"mar766","pten","Vimos várias colunas Romanas no museu.","ambiguity","lexical ambiguity",,"column|pillar",,
+"mar767","pten","Você sabe a letra da música?","ambiguity","lexical ambiguity",,"lyrics|words",,"letters"
+"mar768","pten","Partimos amanhã cedo.","ambiguity","lexical ambiguity",,"leave",,
+"mar769","pten","O ladrão vai pagar pena pelo seu crime.","ambiguity","lexical ambiguity",,"do time|penalty",,"feather"
+"mar770","pten","A manga está rasgada.","ambiguity","lexical ambiguity",,"sleeve",,
+"mar771","pten","Vamos descansar no banco.","ambiguity","lexical ambiguity",,"bench",,
+"mar772","pten","Como meu irmão não trabalha, eu banco as despesas.","ambiguity","lexical ambiguity",,"pay",,"bank"
+"mar773","pten","O paciente queixou-se ao médico do formigueiro nas mãos.","ambiguity","lexical ambiguity",,"pins and needles|tingling",,"ant"
+"mar774","pten","O seu João continua mandando bocas para a vizinha do 1.º D.","ambiguity","lexical ambiguity",,"word",,"mouth"
+"mar775","pten","A letra daquele aluno é inteligível.","ambiguity","lexical ambiguity",,"handwriting",,
+"mar776","pten","A mãe vela pelo sono do filho doente.","ambiguity","lexical ambiguity",,"watches|wake",,
+"mar777","pten","O barco à vela foi movido pelo vento.","ambiguity","lexical ambiguity",,"sailing boat",,
+"mar778","pten","Pedro era o cabeça da gangue.","ambiguity","lexical ambiguity",,"leader|head",,
+"mar779","pten","Me veja dois pãezinhos, por favor.","ambiguity","lexical ambiguity",,"give",,"see"
+"mar780","pten","A direção do carro quebrou.","ambiguity","lexical ambiguity",,"steering wheel",,"steering"
+"mar781","pten","João sentou na cadeira com o braço quebrado.","ambiguity","structural ambiguity",,"broken",,
+"mar782","pten","A professora pediu ao aluno que trouxesse a sua caneta.","ambiguity","structural ambiguity",,"his",,
+"mar783","pten","Ele levou a secretária à sua casa.","ambiguity","structural ambiguity",,,"He took the desk to his home.",
+"mar784","pten","A mãe falou com a filha que estava indo à feira.","ambiguity","structural ambiguity",,"who",,
+"mar785","pten","A contadora disse ao auxiliar que anotasse o crédito em seu caderno. ","ambiguity","structural ambiguity",,"her",,
+"mar786","pten","O São Paulo quebra a invencibilidade do Ceará em casa.","ambiguity","structural ambiguity",,"Ceará's.*home record",,
+"mar787","pten","Lucélia fez um almoço na sua casa? ","ambiguity","structural ambiguity",,"your",,
+"mar788","pten","Soube do novo emprego dela na confeitaria.","ambiguity","structural ambiguity",,"at",,
+"mar789","pten","O policial prendeu o bandido na sua casa.","ambiguity","structural ambiguity",,"his",,
+"mar790","pten","O médico atendeu o paciente mal humorado.","ambiguity","structural ambiguity",,"grumpy",,
+"mar791","pten","Ela me esperava no banco.","ambiguity","structural ambiguity",,"bank",,
+"mar792","pten","O juiz julgou o réu errado.","ambiguity","structural ambiguity",,"wrong",,
+"mar793","pten","Peguei o ônibus correndo.","ambiguity","structural ambiguity",,,"I have rushed the bus.",
+"mar794","pten","Cláudia falou com a costureira que trabalha neste bairro.","ambiguity","structural ambiguity",,"who",,
+"mar795","pten","Mario viu uma mulher no teatro com binóculos.","ambiguity","structural ambiguity",,"with",,
+"mar796","pten","Pedro falou com o vizinho de pijama.","ambiguity","structural ambiguity",,"his",,
+"mar797","pten","O diretor do jornal encontrou o editor com a sua mulher.","ambiguity","structural ambiguity",,"his",,
+"mar798","pten","A mulher de Paulo bateu o seu carro.","ambiguity","structural ambiguity",,"her",,
+"mar799","pten","O morador pediu ao porteiro para sair.","ambiguity","structural ambiguity",,"let him out",,"doorman to leave"
+"mar800","pten","Sílvia conversou com sua mãe animada.","ambiguity","structural ambiguity",,"animatedly",,
+"mar801","pten","Ela não havia expressado seus sentimentos.","verb tense/aspect/mood","abundant",,"expressed",,
+"mar802","pten","Seus sentimentos não foram expressos por ela.","verb tense/aspect/mood","abundant",,"expressed",,
+"mar803","pten","Eles haviam limpado a garagem.","verb tense/aspect/mood","abundant",,"cleaned",,
+"mar804","pten","A garagem foi limpa por eles.","verb tense/aspect/mood","abundant",,"cleaned",,
+"mar805","pten","O presidente foi eleito pelo povo ","verb tense/aspect/mood","abundant",,"elected",,
+"mar806","pten","Ele tinha suspendido a ordem de prisão.","verb tense/aspect/mood","abundant",,"suspended",,
+"mar807","pten","A ordem de prisão foi suspensa.","verb tense/aspect/mood","abundant",,"suspended",,
+"mar808","pten","O bombeiro tinha extinguido o fogo.","verb tense/aspect/mood","abundant",,"extinguished",,
+"mar809","pten","O fogo foi extinto pelo bombeiro.","verb tense/aspect/mood","abundant",,"extinguished|put out",,"extinct"
+"mar810","pten","Ele tinha fixado o quadro.","verb tense/aspect/mood","abundant",,"fixed|set",,
+"mar811","pten","O quadro foi fixo por ele.","verb tense/aspect/mood","abundant",,"fixed",,
+"mar812","pten","O carteiro tinha entregado a carta.","verb tense/aspect/mood","abundant",,"delivered",,
+"mar813","pten","A carta foi entregue pelo carteiro.","verb tense/aspect/mood","abundant",,"delivered",,
+"mar814","pten","Eles tinham aceitado o meu convite. ","verb tense/aspect/mood","abundant",,"accepted",,
+"mar815","pten","O meu convite foi aceito por eles.","verb tense/aspect/mood","abundant",,"accepted",,
+"mar816","pten","Os policiais tinham matado o ladrão.","verb tense/aspect/mood","abundant",,"killed",,
+"mar817","pten","O ladrão foi morto pelo policiais.","verb tense/aspect/mood","abundant",,"killed",,
+"mar818","pten","Eu tinha acendido a vela.","verb tense/aspect/mood","abundant",,"lit",,
+"mar819","pten","A vela foi acesa por mim.","verb tense/aspect/mood","abundant",,"lit",,
+"mar820","pten","Questões médico-farmacêuticas.","ldd & interrogatives","compound adjective",,"Medical-pharmaceutical",,
+"mar821","pten","Políticas anglo-franco-germânicas.","ldd & interrogatives","compound adjective",,"Anglo-Franco-Germanic",,"German"
+"mar822","pten","Sempre há finalistas latino-americanas nos concursos de Miss Universo.","ldd & interrogatives","compound adjective",,"Latin-American|Latin American",,
+"mar823","pten","A camisa da seleção do Brasil é verde-amarela. ","ldd & interrogatives","compound adjective",,"green and yellow",,
+"mar824","pten","O Teatro de Aspendo é considerado o  teatro greco-romano mais bem preservado da Antiguidade.","ldd & interrogatives","compound adjective",,"Greco-Roman",,
+"mar825","pten","O cabelo dela é castanho-claro.","ldd & interrogatives","compound adjective",,"light brown",,
+"mar826","pten","Sempre foi mal-educado e mal-humorado.","ldd & interrogatives","compound adjective",,"rude.*ill-tempered",,
+"mar827","pten","Ele é o vice-campeão mundial de boxe.","ldd & interrogatives","compound adjective",,"vice-champion",,
+"mar828","pten","Aqueles turistas são afro-americanos.","ldd & interrogatives","compound adjective",,"African-American",,
+"mar829","pten","Lamentavelmente, a pintura do teto ficou mal-acabada.","ldd & interrogatives","compound adjective",,"poorly (done|finished)",,
+"mar830","pten","Eram crianças bem-comportadas de apenas 3 anos.","ldd & interrogatives","compound adjective",,"well-behaved",,
+"mar831","pten","Oxalá a cozinheira tenha feito o jantar todos os dias.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"has cooked",,
+"mar832","pten","Espero que você tenha compreendido toda a minha indignação ao ouvir os boatos.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have understood|you understood",,
+"mar833","pten","Torço para que o Palmeiras tenha ganho a Copa Libertadores.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"has won",,
+"mar834","pten","Desejo que tenhas feito uma excelente pesquisa.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have done",,
+"mar835","pten","Imagino que tenhas usado corretamente o programa, porque o computador baixou o PDF.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have used",,"you used"
+"mar836","pten","Espera-se que os laboratórios nacionais tenham feito grandes progressos na descoberta do vírus.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"have made",,
+"mar837","pten","Alegro-me em saber que tenhas provado requintadas iguarias em uma refeição.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have tasted",,
+"mar838","pten","Não nos surpreende saber que tenha feito tantos amigos por morar no exterior.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have made",,
+"mar839","pten","Espero que tenha realizado o seu sonho de visitar Berlim.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have fulfilled",,
+"mar840","pten","Que você tenha feito o Bem sem olhar a quem.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have done",,
+"mar841","pten","Suspeitamos que tenhas magoado o teu irmão.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have (hurt|upset)",,
+"mar842","pten","Acredita-se que o presidente tenha intercedido em favor do filho à diretoria do clube.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"has interceded|believed to have interceded",,
+"mar843","pten","É importante que os seguranças tenham visto o refeitório.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"have seen",,
+"mar844","pten","Não me causa espanto que ela o tenha seduzido.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"she has seduced","I am not surprised that it has seduced you.",
+"mar845","pten","Esplêndida a notícia de que tenhas poupado 55 mil reais para a compra de um carro.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have saved",,
+"mar846","pten","Fazemos votos que tenham vivido felizes ao longo de seus 30 anos de casados.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"(they|you) have lived",,
+"mar847","pten","Acho que Rafael haja terminado o serviço antes do prazo.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"has finished",,
+"mar848","pten"," Presume-se que tenham deixado muitas saudades ao partir.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have left",,
+"mar849","pten","Espera-se que tenham utilizado todos os argumentos possíveis para demovê-lo da compra da casa da vovó.","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"you have used",,
+"mar850","pten","Folgo em saber que lhe tenha auxiliado sem delongas ou exigências.  ","verb tense/aspect/mood","subjuntivo pretérito perfeito composto",,"(he|she) has helped|I have helped",,
+"mar851","pten","Caso tivesse saído mais cedo do trabalho, teria comprado o necessário para o jantar.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"Had I left|I had left",,
+"mar852","pten","Se tivesses falado em meu nome, eu te teria agradecido.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"you had spoken",,
+"mar853","pten","Se os pais tivessem ido à escola, teriam conhecido a nova diretora.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"had gone",,
+"mar854","pten","Ainda que não tivessem conhecido a máxima, não teriam feito mal a ninguém.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"had(n't| not) known",,
+"mar855","pten","Ainda que tivesse estado exausta, ela teria cuidado bem daquele paciente.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"she had been",,
+"mar856","pten","O papai teria esperado, se lhe tivéssemos telefonado ainda nesta semana.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"we had called",,
+"mar857","pten","Se tivesses aceitado a Jesus, terias amado o teu próximo como a ti mesmo.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"you had accepted",,
+"mar858","pten","Se você tivesse me conhecido melhor, teria entendido o que lhe disse.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"you had known",,
+"mar859","pten"," Não me teriam ouvido, ainda que lhes tivesse suplicado.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"They would(n't| not) have (heard|listened)",,
+"mar860","pten","Se tivesse trabalhado duro, teria conseguido a desejada promoção.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"(he|she) had worked",,
+"mar861","pten","Se houvessem sido da família, teriam sabido o que se passara entre aquelas quatro paredes.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"they had been",,
+"mar862","pten","Ainda que eu tivesse sido um bom atleta, teria dado sempre o meu melhor.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"I had been",,
+"mar863","pten","Minha mãe teria concordado comigo, se eu tivesse insistido um pouco mais.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"if I had (insisted|pushed)",,
+"mar864","pten","Ele teria adorado que eu tivesse feito uma festa surpresa no aniversário dele.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"I had thrown|to throw him",,
+"mar865","pten","Embora não me tivesse exigido, eu lhe teria dito que a amo.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"she didn't demand",,
+"mar866","pten","Caso me tivesse pedido, eu teria feito exatamente como ela desejava.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"Had she asked",,
+"mar867","pten","Se ele tivesse enriquecido, ela o teria seduzido.  ","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"If he had gotten",,
+"mar868","pten","Se a esposa tivesse permitido, ele teria dormido até tarde no domingo.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"If.*wife had (permitted|allowed)",,
+"mar869","pten","Teríamos ficado profundamente tristes, se ela tivesse partido sem se despedir.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"if she had left",,
+"mar870","pten","Se eu tivesse estudado mais, não estaria estressada.","verb tense/aspect/mood","subjuntivo pretérito mais-que-perfeito composto",,"If I had studied",,
+"mar871","pten","Quando a cozinheira fizer o jantar , chamaremos os convidados para à mesa.","verb tense/aspect/mood","subjuntivo futuro",,"makes",,
+"mar872","pten","Quando você ouvir os boatos, compreenderá toda a minha indignação.","verb tense/aspect/mood","subjuntivo futuro",,"you hear",,
+"mar873","pten","Quando começar a Copa Libertadores, torcerei para o Palmeiras.","verb tense/aspect/mood","subjuntivo futuro",,"starts|begins",,
+"mar874","pten","Quando tiveres tempo suficiente, terminarás tua excelente pesquisa.","verb tense/aspect/mood","subjuntivo futuro",,"you have",,
+"mar875","pten","Quando usares corretamente o programa, o computador baixará o PDF.","verb tense/aspect/mood","subjuntivo futuro",,"you use",,
+"mar876","pten","Os laboratórios farão grandes progressos, quando descobrirem o vírus.","verb tense/aspect/mood","subjuntivo futuro",,"they discover",,
+"mar877","pten","Ficarei muito feliz, quando provares todas as requintadas iguarias do jantar.","verb tense/aspect/mood","subjuntivo futuro",,"you taste",,
+"mar878","pten","Quando se mudar para o exterior, fará muitos amigos estrangeiros.","verb tense/aspect/mood","subjuntivo futuro",,"you move",,
+"mar879","pten","Realizará o seu sonho, quando morar em Berlim.","verb tense/aspect/mood","subjuntivo futuro",,"he lives|you live",,
+"mar880","pten","Quando  fizeres o Bem, sentirás genuína alegria.","verb tense/aspect/mood","subjuntivo futuro",,"you do",,
+"mar881","pten","Magoarás o teu irmão, quando lhe contar a tua falta.","verb tense/aspect/mood","subjuntivo futuro",,"(you) tell",,
+"mar882","pten","Quando o presidente for à diretoria do clube, intercederá pelo seu filho. ","verb tense/aspect/mood","subjuntivo futuro",,"goes",,
+"mar883","pten","Quando os seguranças forem ao Banco, poderão acessar o refeitório.","verb tense/aspect/mood","subjuntivo futuro",,"go",,
+"mar884","pten","Quando ela o seduzir, não me espantarei.","verb tense/aspect/mood","subjuntivo futuro","When it seduces you, I won't be surprised.","she seduces",,
+"mar885","pten"," Quando poupar 55 mil reais , poderá comprar um carro.","verb tense/aspect/mood","subjuntivo futuro",,"(you|I) save",,
+"mar886","pten","Estaremos realizados, quando celebrarem seus 30 anos de casados.","verb tense/aspect/mood","subjuntivo futuro",,"they celebrate",,
+"mar887","pten","Quando terminar o prazo, Rafael entregará o serviço.","verb tense/aspect/mood","subjuntivo futuro",,"expires",,
+"mar888","pten","Quando partir, deixará muitas saudades.","verb tense/aspect/mood","subjuntivo futuro",,"he leaves",,
+"mar889","pten","Eles o demoverão da compra da casa da vovó, quando usarem todos os argumentos possíveis.","verb tense/aspect/mood","subjuntivo futuro",,"they use",,
+"mar890","pten","Será um grande alívio, quando souber que lhe auxiliaram sem delongas ou queixas.  ","verb tense/aspect/mood","subjuntivo futuro",,"you know|(he|she) knows",,
+"mar891","pten","Quando a cozinheira tiver feito o jantar, poderemos chamar os convidados.","verb tense/aspect/mood","subjuntivo futuro composto",,"has made",,
+"mar892","pten","Quando você tiver ouvido os boatos,  comprenderá toda a minha indignação.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have heard",,
+"mar893","pten","Quando  tiver começado a Copa Libertadores, torcerei para o Palmeiras.","verb tense/aspect/mood","subjuntivo futuro composto",,"has started",,
+"mar894","pten","Quando tiveres tido tempo suficiente, terminarás a tua pesquisa.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have had",,
+"mar895","pten","Quando tiveres usado corretamente o programa, o computador baixará o PDF.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have (correctly )?used",,
+"mar896","pten","Os laboratórios terão feito grandes progressos, quando tiverem descoberto o vírus.","verb tense/aspect/mood","subjuntivo futuro composto",,"they have discovered",,
+"mar897","pten","Ficarei muito feliz, quando tiveres provado todas as requintadas iguarias do jantar.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have tasted",,
+"mar898","pten","Quando tiver mudado para o exterior, fará muitos amigos estrangeiros.","verb tense/aspect/mood","subjuntivo futuro composto",,"(he|she) has moved|you have moved",,
+"mar899","pten","Terá realizado o seu sonho, quando tiver morado em Berlim.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have lived|(he|she) has lived",,
+"mar900","pten","Quando tiver feito o Bem, sentirá uma alegria profunda.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have done",,
+"mar901","pten","Terás magoado o teu irmão, quando lhe tiver contado a tua falta.","verb tense/aspect/mood","subjuntivo futuro composto",,"(I|you) have told",,
+"mar902","pten","Quando o presidente tiver ido à diretoria do clube, intercederá pelo seu filho. ","verb tense/aspect/mood","subjuntivo futuro composto",,"has gone",,
+"mar903","pten","Quando os seguranças tiverem saído do banco, estará fechado o acesso ao refeitório.","verb tense/aspect/mood","subjuntivo futuro composto",,"have left",,
+"mar904","pten","Quando ela o tiver seduzido, não me espantarei.","verb tense/aspect/mood","subjuntivo futuro composto",,"she has seduced",,
+"mar905","pten","Quando tiver poupado 55 mil reais, poderá comprar um carro.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have saved",,
+"mar906","pten","Estaremos realizados, quando tiverem celebrado seus 30 anos de casado.","verb tense/aspect/mood","subjuntivo futuro composto",,"you have celebrated",,
+"mar907","pten","Quando tiver terminado o prazo, Rafael entregará o serviço.","verb tense/aspect/mood","subjuntivo futuro composto",,"has passed",,
+"mar908","pten","Quando tiver partido,  deixará muitas saudades.","verb tense/aspect/mood","subjuntivo futuro composto",,"(he|she) has (left|gone)|(he|she) is gone",,
+"mar909","pten","Eles o demoverão da compra da casa da vovó, quando tiverem usado todos os argumentos possíveis.","verb tense/aspect/mood","subjuntivo futuro composto",,"they have used",,
+"mar910","pten","Quando tiverem viajado, iniciaremos as obras.","verb tense/aspect/mood","subjuntivo futuro composto",,"have traveled",,
+"mar911","pten","Você não gosta de chocolate, não é?","function word","question tag",,"do you",,"don't you"
+"mar912","pten","Ele não come banana, né?","function word","question tag",,"does he|right",,"doesn't he"
+"mar913","pten","Ela não canta bem, canta?","function word","question tag",,"does she|right",,"doesn't she"
+"mar914","pten","Eles não podem sair de casa depois das dez, tá?","function word","question tag",,"ok|okay",,"right"
+"mar915","pten","Eu já vou para casa, tá?","function word","question tag",,"ok|okay",,
+"mar916","pten","Você gostaria de participar do jogo, né?","function word","question tag",,"right|wouldn't you",,
+"mar917","pten","Você não vai reclamar, né?","function word","question tag",,"right|are you",,
+"mar918","pten","Eles não gostam de perder, não é?","function word","question tag",,"right|do they",,
+"mar919","pten","Eu já te expliquei isso antes, não expliquei?","function word","question tag",,"didn't I|did I not|haven't I",,
+"mar920","pten","Eles estão demorando muito para chegar, não estão?","function word","question tag",,"aren't they",,
+"mar921","pten","Ela viaja muito para o exterior, não viaja?","function word","question tag",,"doesn't she",,
+"mar922","pten","Vocês são muito determinados, não são?","function word","question tag",,"aren't you",,
+"mar923","pten","Eu não fiz nada errado, fiz?","function word","question tag",,"did I",,
+"mar924","pten","Ela não se desculpou, desculpou?","function word","question tag",,"right|did she",,
+"mar925","pten","Voce não completou o dever de casa, né?","function word","question tag",,"right|have you",,
+"mar926","pten","As crianças estão dormindo, então não faça muito barulho, tá?","function word","question tag",,"ok|okay",,
+"mar927","pten","Os professores pediram para aguardarmos aqui, não é?","function word","question tag",,"didn't they|did they not|haven't they",,
+"mar928","pten","Ele não vai escapar, vai?","function word","question tag",,"will he|is he",,
+"mar929","pten","Nós iremos à festa de aniversário, não iremos?","function word","question tag",,"won't we",,
+"mar930","pten","Ele te entregará o bolo, não entregará?","function word","question tag",,"won't he",,
+"mar931","pten","Nós assistimos ao jogo de futebol no telão da praia.","false friends","false friends",,"watch",,"assist"
+"mar932","pten","Os documentários a que assisti eram sobre discriminação de gênero.","false friends","false friends",,"watch",,"assist"
+"mar933","pten","Ontem eu não assisti à novela das nove.","false friends","false friends",,"watch",,"assist"
+"mar934","pten","Não contou a ela sobre a festa?","ldd & interrogatives","direct object omissions",,"Did you not|Didn't you",,
+"mar935","pten","Não falou para ela parar de gritar?","ldd & interrogatives","direct object omissions",,"Did you not|Didn't you|Did he not|Didn't he",,
+"mar936","pten","Não chegarão atrasados?","ldd & interrogatives","direct object omissions",,"Won't they|Will they not",,
+"mar937","pten","Não completamos o jogo?","ldd & interrogatives","direct object omissions",,"Did we not|Didn't we|Have we not|Haven't we",,
+"mar938","pten","Não vamos?","ldd & interrogatives","direct object omissions",,"Won't we|Will we not",,
+"mar939","pten","Você contou a ele sobre a festa?","ldd & interrogatives","direct object omissions",,"Did you",,
+"mar940","pten","Ele falou para ela parar de gritar?","ldd & interrogatives","direct object omissions",,"Did he",,
+"mar941","pten","Eles chegarão atrasados?","ldd & interrogatives","direct object omissions",,"Will they",,
+"mar942","pten","Nós completamos o jogo?","ldd & interrogatives","direct object omissions",,"Did we|Have we",,
+"mar943","pten","Já te introduzi à minha irmã?","ldd & interrogatives","direct object omissions",,"Have I",,
+"mar944","pten","Eu já te introduzi à minha irmã?","ldd & interrogatives","direct object omissions",,"Have I",,"I have"
+"mar945","pten","Você não contou a ele sobre a festa?","ldd & interrogatives","direct object omissions",,"Did you not|Didn't you",,
+"mar946","pten","Ele não falou para ela parar de gritar?","ldd & interrogatives","direct object omissions",,"Did he not|Didn't he",,
+"mar947","pten","Eles não chegarão atrasados?","ldd & interrogatives","direct object omissions",,"Won't they|Will they not",,
+"mar948","pten","Nós não completamos o jogo?","ldd & interrogatives","direct object omissions",,"Did we not|Didn't we|Have we not|Haven't we",,
+"mar949","pten","Não te introduzi à minha irmã?","ldd & interrogatives","direct object omissions",,"Haven't I|Have I not",,
+"mar950","pten","Eu não te introduzi à minha irmã?","ldd & interrogatives","direct object omissions",,"Haven't I|Have I not|Did I not|Didn't I",,
+"mar951","pten","Precisam de ajuda?","ldd & interrogatives","direct object omissions",,"Do you",,
+"mar952","pten","Ainda não terminaram o dever de casa?","ldd & interrogatives","direct object omissions",,"Have you not|Haven't you",,
+"mar953","pten","Buscastes os documentos na embaixada?","ldd & interrogatives","direct object omissions",,"Did you",,
+"mar954","pten","Ainda tristonho, voltou para casa.","ldd & interrogatives","derived adjective",,"sad",,
+"mar955","pten","Gosto do vestido verde, embora esse tom esverdeado não combine muito com a minha pele.","ldd & interrogatives","derived adjective",,"greenish",,
+"mar956","pten","Nada me deixará infeliz hoje!","ldd & interrogatives","derived adjective",,"unhappy",,
+"mar957","pten","Ele é branco, mas hoje está é esbranquiçado!","ldd & interrogatives","derived adjective",,"off-white",,
+"mar958","pten","Desarticulado, não conseguia articular corretamente as palavras.","ldd & interrogatives","derived adjective",,"Disjointed|Unarticulated",,
+"mar959","pten","São todos muito amáveis.","ldd & interrogatives","derived adjective",,"kind",,
+"mar960","pten","Doenças mortais matam milhões a cada ano.","ldd & interrogatives","derived adjective",,"Deadly",,
+"mar961","pten","O menino é muito bonitinho!","ldd & interrogatives","derived adjective",,"cute",,"handsome"
+"mar962","pten","Que menina lindinha!","ldd & interrogatives","derived adjective",,"pretty little girl|cute",,
+"mar963","pten","O cachorro é bem feiinho.","ldd & interrogatives","derived adjective",,"pretty ugly",,
+"mar964","pten","Meu pai é muito mandão.","ldd & interrogatives","derived adjective",,"bossy",,
+"mar965","pten","Que bebê grandão!","ldd & interrogatives","derived adjective",,"huge",,"big"
+"mar966","pten","O bebê é chorão.","ldd & interrogatives","derived adjective",,"crybaby",,
+"mar967","pten","O céu é azulado.","ldd & interrogatives","derived adjective",,"blue",,
+"mar968","pten","As sinalizações não estão visíveis para mim, pois estou sem óculos.","ldd & interrogatives","derived adjective",,"visible",,
+"mar969","pten","O presidente é riquíssimo.","verb tense/aspect/mood","ditransitive",,"very rich",,
+"mar970","pten","Vou ensinar matemática a meninas.","verb tense/aspect/mood","ditransitive",,"to girls",,
+"mar971","pten","Vou ensinar novos cortes a cabeleireiras.","verb tense/aspect/mood","ditransitive",,"teach hairdressers|to hairdressers",,
+"mar972","pten","Doaram muitos presentes a crianças carentes no Natal.","verb tense/aspect/mood","ditransitive",,"to (needy )?(children|kids)",,
+"mar973","pten","Vou ensinar novos cortes às cabeleireiras.","verb tense/aspect/mood","ditransitive",,"the hairdressers",,
+"mar974","pten","Havia fotos espalhadas pela casa inteira.","verb tense/aspect/mood","impersonal",,"There were",,
+"mar975","pten","Há momentos que precisamos rever nossas atitudes.","verb tense/aspect/mood","impersonal",,"There are",,
+"mar976","pten","Houve muitos momentos que as pessoas pararam de conversar.","verb tense/aspect/mood","impersonal",,"There were",,
+"mar977","pten","Relampejou a noite toda.","verb tense/aspect/mood","impersonal","It has flashed all night long.","Lightning flashed",,
+"mar978","pten","Choveu muito à tarde.","verb tense/aspect/mood","impersonal",,"It rained",,
+"mar979","pten","Aqui podia ventar um pouco mais.","verb tense/aspect/mood","impersonal",,"be.*windier",,
+"mar980","pten","Quando escurecer, volte para casa.","verb tense/aspect/mood","impersonal",,"gets dark",,
+"mar981","pten","São cinco quilômetros até o município de Franco da Rocha.","verb tense/aspect/mood","impersonal",,"It is",,
+"mar982","pten","Faz muito tempo que não nos vemos.","verb tense/aspect/mood","impersonal",,"It has been",,
+"mar983","pten","Deve haver uma borracharia por aqui.","verb tense/aspect/mood","impersonal",,"There (should|must)",,
+"mar984","pten","Vai fazer seis meses que moro aqui.","verb tense/aspect/mood","impersonal",,"for six months",,
+"mar985","pten","Havia três pessoas na frente da casa.","verb tense/aspect/mood","impersonal",,"There were",,
+"mar986","pten","Faz dias muito quentes no verão.","verb tense/aspect/mood","impersonal",,"There are",,"It is"
+"mar987","pten","Isso aconteceu faz seis meses.","verb tense/aspect/mood","impersonal","That happened six months ago.",,,
+"mar988","pten","Deve fazer cinco meses que estou estudando para o vestibular.","verb tense/aspect/mood","impersonal",,"It must be",,
+"mar989","pten","Vai fazer três anos que meus pais viajaram.","verb tense/aspect/mood","impersonal",,"It will be",,
+"mar990","pten","Faz dez dias que te conheci.","verb tense/aspect/mood","impersonal",,"It('s| has) been",,
+"mar991","pten","Faz uns sete graus nessa época lá.","verb tense/aspect/mood","impersonal",,"It('s| is)",,
+"mar992","pten","Carla disse que já são cinco horas.","verb tense/aspect/mood","impersonal",,"it('s| is)",,
+"mar993","pten","Neva desde as cinco da madrugada.","verb tense/aspect/mood","impersonal",,"It has been snowing",,
+"mar994","pten","Aumentou-se o preço dos ovos de chocolate.","verb valency","mediopassive voice",,"price.*(has|was) (risen|increased)",,
+"mar995","pten","Fez-se a receita de pudim de pão.","verb valency","mediopassive voice",,"was made",,
+"mar996","pten","Leram-se as obras de Machado de Assis.","verb valency","mediopassive voice",,"have been read|were read",,
+"mar997","pten","Ouviram-se as reclamações.","verb valency","mediopassive voice",,"were heard",,
+"mar998","pten","Entregaram-se os diplomas.","verb valency","mediopassive voice",,"have been (delivered|handed over)|Diplomas were handed out",,
+"mar999","pten","Fez-se uma manifestação na rua.","verb valency","mediopassive voice",,"demonstration was held|There was a demonstration",,
